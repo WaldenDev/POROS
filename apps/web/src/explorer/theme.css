@@ -1,0 +1,47 @@
+/* Explorer-only palette. The independent workbench keeps its own theme. */
+.explorer {
+  --ex-page: #f7f7f7;
+  --ex-surface: #ffffff;
+  --ex-subtle: #f2f3f2;
+  --ex-hover: #e9ecea;
+  --ex-ink: #242424;
+  --ex-muted: #626765;
+  --ex-border: #dedfdf;
+  --ex-border-strong: #a1aaa5;
+  --ex-accent: #206856;
+  --ex-accent-soft: #eaf3ef;
+  --ex-accent-border: #8aab9d;
+  --ex-primary: #2a5d4e;
+  --ex-primary-hover: #204d40;
+  --ex-on-primary: #ffffff;
+  --ex-warning: #80591b;
+  --ex-picked-bg: #faf3e4;
+  --ex-picked-border: #b78b3e;
+  --ex-picked-ink: #75531d;
+  --ex-canvas: #242424;
+  color-scheme: light;
+}
+
+/* One dark region, including the empty/loading states and canvas overlays. */
+.atlas-viewport {
+  --ex-surface: #303030;
+  --ex-subtle: #2b2b2b;
+  --ex-hover: #3b3b3b;
+  --ex-ink: #f0f0f0;
+  --ex-muted: #bcbcbc;
+  --ex-border: #4c4c4c;
+  --ex-border-strong: #858585;
+  --ex-accent: #99dfc8;
+  --ex-accent-soft: #2f3e38;
+  --ex-accent-border: #7eb19e;
+  --ex-primary: #bce6d5;
+  --ex-primary-hover: #d2efdf;
+  --ex-on-primary: #20392f;
+  --ex-warning: #e3c386;
+  --ex-picked-bg: #3b3528;
+  --ex-picked-border: #e9c580;
+  --ex-picked-ink: #fff1ce;
+  color-scheme: dark;
+  color: var(--ex-ink);
+  background: var(--ex-canvas);
+}

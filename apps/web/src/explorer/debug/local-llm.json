@@ -1,0 +1,1962 @@
+{
+  "query": "local llm",
+  "fetched_at": "2026-11-06T15:29:19.909808+00:00",
+  "recorded_at": "2026-11-11T10:41:42.333825+00:00",
+  "result": {
+    "repos": [
+      {
+        "id": "615869301",
+        "name": "mudler/LocalAI",
+        "url": "https://github.com/mudler/LocalAI",
+        "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+        "stars": 50231,
+        "language": "Go",
+        "topics": [
+          "agents",
+          "ai",
+          "api",
+          "audio-generation",
+          "decentralized",
+          "distributed"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/2420543?v=4"
+      },
+      {
+        "id": "649170660",
+        "name": "Mintplex-Labs/anything-llm",
+        "url": "https://github.com/Mintplex-Labs/anything-llm",
+        "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+        "stars": 68003,
+        "language": "JavaScript",
+        "topics": [
+          "agent-computer",
+          "agent-harness",
+          "agent-orchestration",
+          "agentic-ai",
+          "agentic-workflow",
+          "ai-agents"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/134426827?v=4"
+      },
+      {
+        "id": "995323854",
+        "name": "rafska/awesome-local-llm",
+        "url": "https://github.com/rafska/awesome-local-llm",
+        "description": "A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally",
+        "stars": 3041,
+        "language": "Other",
+        "topics": [
+          "ai",
+          "awesome",
+          "awesome-list",
+          "llm",
+          "local",
+          "local-ai"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/17859377?v=4"
+      },
+      {
+        "id": "1118133888",
+        "name": "0xSojalSec/LLMs-local",
+        "url": "https://github.com/0xSojalSec/LLMs-local",
+        "description": " list of awesome platforms, tools, and resources   run for LLMs locally",
+        "stars": 1205,
+        "language": "Other",
+        "topics": [],
+        "avatar": "https://avatars.githubusercontent.com/u/92203029?v=4"
+      },
+      {
+        "id": "1288292418",
+        "name": "jamesob/local-llm",
+        "url": "https://github.com/jamesob/local-llm",
+        "description": "Everything I know about running LLMs locally",
+        "stars": 1883,
+        "language": "Shell",
+        "topics": [],
+        "avatar": "https://avatars.githubusercontent.com/u/73197?v=4"
+      },
+      {
+        "id": "776632801",
+        "name": "vndee/local-talking-llm",
+        "url": "https://github.com/vndee/local-talking-llm",
+        "description": "A talking LLM that runs on your own computer without needing the internet.",
+        "stars": 896,
+        "language": "Python",
+        "topics": [
+          "chatbot",
+          "llm",
+          "speech-recognition",
+          "speech-synthesis"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/28271488?v=4"
+      },
+      {
+        "id": "751783691",
+        "name": "thu-vu92/local-llms-analyse-finance",
+        "url": "https://github.com/thu-vu92/local-llms-analyse-finance",
+        "description": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
+        "stars": 877,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "avatar": "https://avatars.githubusercontent.com/u/22730220?v=4"
+      },
+      {
+        "id": "619959033",
+        "name": "nomic-ai/gpt4all",
+        "url": "https://github.com/nomic-ai/gpt4all",
+        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+        "stars": 77336,
+        "language": "C++",
+        "topics": [
+          "ai-chat",
+          "llm-inference"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/102670180?v=4"
+      },
+      {
+        "id": "974827014",
+        "name": "tattn/LocalLLMClient",
+        "url": "https://github.com/tattn/LocalLLMClient",
+        "description": "Swift package to run local LLMs on iOS, macOS, Linux",
+        "stars": 219,
+        "language": "Swift",
+        "topics": [
+          "foundation-models",
+          "gemma",
+          "gguf",
+          "ios",
+          "linux",
+          "llama"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/8188636?v=4"
+      },
+      {
+        "id": "637313883",
+        "name": "Troyanovsky/Local-LLM-Comparison-Colab-UI",
+        "url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI",
+        "description": "Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.",
+        "stars": 1106,
+        "language": "Jupyter Notebook",
+        "topics": [
+          "ai",
+          "gpt",
+          "llama",
+          "llm"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/16143851?v=4"
+      },
+      {
+        "id": "1203574922",
+        "name": "kytmanov/obsidian-llm-wiki-local",
+        "url": "https://github.com/kytmanov/obsidian-llm-wiki-local",
+        "description": "Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours.",
+        "stars": 850,
+        "language": "Python",
+        "topics": [
+          "git-based-wiki",
+          "karpathy",
+          "knowledge-base",
+          "llm-knowledge-base",
+          "llm-pipeline",
+          "llm-tools"
+        ],
+        "avatar": "https://avatars.githubusercontent.com/u/19655528?v=4"
+      },
+      {
+        "id": "764998085",
+        "name": "vince-lam/awesome-local-llms",
+        "url": "https://github.com/vince-lam/awesome-local-llms",
+        "description": "Compare compatible open-source local LLM projects by their metrics to assess popularity and activeness.",
+        "stars": 812,
+        "language": "Python",
+        "topics": [],
+        "avatar": "https://avatars.githubusercontent.com/u/57117625?v=4"
+      }
+    ],
+    "edges": [
+      {
+        "source": "615869301",
+        "target": "topic:agents",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/mudler/LocalAI"
+      },
+      {
+        "source": "615869301",
+        "target": "topic:ai",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/mudler/LocalAI"
+      },
+      {
+        "source": "615869301",
+        "target": "topic:api",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/mudler/LocalAI"
+      },
+      {
+        "source": "615869301",
+        "target": "topic:audio-generation",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/mudler/LocalAI"
+      },
+      {
+        "source": "615869301",
+        "target": "topic:decentralized",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/mudler/LocalAI"
+      },
+      {
+        "source": "615869301",
+        "target": "topic:distributed",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/mudler/LocalAI"
+      },
+      {
+        "source": "649170660",
+        "target": "topic:agent-computer",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Mintplex-Labs/anything-llm"
+      },
+      {
+        "source": "649170660",
+        "target": "topic:agent-harness",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Mintplex-Labs/anything-llm"
+      },
+      {
+        "source": "649170660",
+        "target": "topic:agent-orchestration",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Mintplex-Labs/anything-llm"
+      },
+      {
+        "source": "649170660",
+        "target": "topic:agentic-ai",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Mintplex-Labs/anything-llm"
+      },
+      {
+        "source": "649170660",
+        "target": "topic:agentic-workflow",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Mintplex-Labs/anything-llm"
+      },
+      {
+        "source": "649170660",
+        "target": "topic:ai-agents",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Mintplex-Labs/anything-llm"
+      },
+      {
+        "source": "995323854",
+        "target": "topic:ai",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/rafska/awesome-local-llm"
+      },
+      {
+        "source": "995323854",
+        "target": "topic:awesome",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/rafska/awesome-local-llm"
+      },
+      {
+        "source": "995323854",
+        "target": "topic:awesome-list",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/rafska/awesome-local-llm"
+      },
+      {
+        "source": "995323854",
+        "target": "topic:llm",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/rafska/awesome-local-llm"
+      },
+      {
+        "source": "995323854",
+        "target": "topic:local",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/rafska/awesome-local-llm"
+      },
+      {
+        "source": "995323854",
+        "target": "topic:local-ai",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/rafska/awesome-local-llm"
+      },
+      {
+        "source": "776632801",
+        "target": "topic:chatbot",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/vndee/local-talking-llm"
+      },
+      {
+        "source": "776632801",
+        "target": "topic:llm",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/vndee/local-talking-llm"
+      },
+      {
+        "source": "776632801",
+        "target": "topic:speech-recognition",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/vndee/local-talking-llm"
+      },
+      {
+        "source": "776632801",
+        "target": "topic:speech-synthesis",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/vndee/local-talking-llm"
+      },
+      {
+        "source": "619959033",
+        "target": "topic:ai-chat",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/nomic-ai/gpt4all"
+      },
+      {
+        "source": "619959033",
+        "target": "topic:llm-inference",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/nomic-ai/gpt4all"
+      },
+      {
+        "source": "974827014",
+        "target": "topic:foundation-models",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/tattn/LocalLLMClient"
+      },
+      {
+        "source": "974827014",
+        "target": "topic:gemma",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/tattn/LocalLLMClient"
+      },
+      {
+        "source": "974827014",
+        "target": "topic:gguf",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/tattn/LocalLLMClient"
+      },
+      {
+        "source": "974827014",
+        "target": "topic:ios",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/tattn/LocalLLMClient"
+      },
+      {
+        "source": "974827014",
+        "target": "topic:linux",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/tattn/LocalLLMClient"
+      },
+      {
+        "source": "974827014",
+        "target": "topic:llama",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/tattn/LocalLLMClient"
+      },
+      {
+        "source": "637313883",
+        "target": "topic:ai",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI"
+      },
+      {
+        "source": "637313883",
+        "target": "topic:gpt",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI"
+      },
+      {
+        "source": "637313883",
+        "target": "topic:llama",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI"
+      },
+      {
+        "source": "637313883",
+        "target": "topic:llm",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI"
+      },
+      {
+        "source": "1203574922",
+        "target": "topic:git-based-wiki",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/kytmanov/obsidian-llm-wiki-local"
+      },
+      {
+        "source": "1203574922",
+        "target": "topic:karpathy",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/kytmanov/obsidian-llm-wiki-local"
+      },
+      {
+        "source": "1203574922",
+        "target": "topic:knowledge-base",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/kytmanov/obsidian-llm-wiki-local"
+      },
+      {
+        "source": "1203574922",
+        "target": "topic:llm-knowledge-base",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/kytmanov/obsidian-llm-wiki-local"
+      },
+      {
+        "source": "1203574922",
+        "target": "topic:llm-pipeline",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/kytmanov/obsidian-llm-wiki-local"
+      },
+      {
+        "source": "1203574922",
+        "target": "topic:llm-tools",
+        "kind": "github_topic",
+        "evidence_url": "https://github.com/kytmanov/obsidian-llm-wiki-local"
+      }
+    ],
+    "warnings": [],
+    "analysis_available": false,
+    "atlas": {
+      "id": "6e90dc034db8b75c5c41fdbfdeddfa9eeb86bb47fb4ae52cff313b1340afe554",
+      "status": "complete",
+      "model": "codex/gpt-6-astra",
+      "created_at": "2026-11-11T10:41:42.333825+00:00",
+      "checked_at": "2026-11-06T15:59:04.946854+00:00",
+      "understandings": [
+        {
+          "repo_id": "1118133888",
+          "name": "0xSojalSec/LLMs-local",
+          "role": "resource",
+          "facts": [
+            {
+              "id": "fact:a12adf6fa362215ea7cb",
+              "repo_id": "1118133888",
+              "kind": "purpose",
+              "claim": "LLMs-local 是收集本地运行 LLM 所需平台、工具和资源的清单。",
+              "citation": {
+                "document_id": "1118133888:description",
+                "url": "https://github.com/0xSojalSec/LLMs-local",
+                "excerpt": "list of awesome platforms, tools, and resources   run for LLMs locally",
+                "kind": "description",
+                "start_line": 1,
+                "end_line": 1,
+                "snapshot_hash": "86820f617087920e1b6312eb4e3c771d9bf1f7aa55b9de168019d8ed8b78e547"
+              }
+            },
+            {
+              "id": "fact:02dcf630dbee707d17a9",
+              "repo_id": "1118133888",
+              "kind": "interface",
+              "claim": "清单将 llama.cpp 列为 C/C++ LLM 推理引擎参考。",
+              "citation": {
+                "document_id": "1118133888:readme:0",
+                "url": "https://github.com/0xSojalSec/LLMs-local/blob/787ecb36937e27b252bc35043d91715e3471bae8/README.md#L59-L59",
+                "excerpt": "[llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++",
+                "kind": "readme",
+                "start_line": 59,
+                "end_line": 59,
+                "snapshot_hash": "86820f617087920e1b6312eb4e3c771d9bf1f7aa55b9de168019d8ed8b78e547"
+              }
+            },
+            {
+              "id": "fact:d30c9a50790d555921e0",
+              "repo_id": "1118133888",
+              "kind": "interface",
+              "claim": "清单收录面向 Apple silicon、使用 MLX 生成文本和微调模型的 mlx-lm。",
+              "citation": {
+                "document_id": "1118133888:readme:0",
+                "url": "https://github.com/0xSojalSec/LLMs-local/blob/787ecb36937e27b252bc35043d91715e3471bae8/README.md#L67-L67",
+                "excerpt": "[mlx-lm](https://github.com/ml-explore/mlx-lm) - generate text and fine-tune large language models on Apple silicon with MLX",
+                "kind": "readme",
+                "start_line": 67,
+                "end_line": 67,
+                "snapshot_hash": "86820f617087920e1b6312eb4e3c771d9bf1f7aa55b9de168019d8ed8b78e547"
+              }
+            },
+            {
+              "id": "fact:a1506c17cad033fe02b3",
+              "repo_id": "1118133888",
+              "kind": "interface",
+              "claim": "清单将 Open WebUI 列为支持 Ollama 和 OpenAI API 的界面参考。",
+              "citation": {
+                "document_id": "1118133888:readme:0",
+                "url": "https://github.com/0xSojalSec/LLMs-local/blob/787ecb36937e27b252bc35043d91715e3471bae8/README.md#L78-L78",
+                "excerpt": "[Open WebUI](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+                "kind": "readme",
+                "start_line": 78,
+                "end_line": 78,
+                "snapshot_hash": "86820f617087920e1b6312eb4e3c771d9bf1f7aa55b9de168019d8ed8b78e547"
+              }
+            },
+            {
+              "id": "fact:fa5497799b9f4c0d6d41",
+              "repo_id": "1118133888",
+              "kind": "boundary",
+              "claim": "资源范围也包含云端 RAG 模板，并非所有条目都面向纯本地部署。",
+              "citation": {
+                "document_id": "1118133888:readme:1",
+                "url": "https://github.com/0xSojalSec/LLMs-local/blob/787ecb36937e27b252bc35043d91715e3471bae8/README.md#L415-L415",
+                "excerpt": "[Pathway AI Pipelines](https://github.com/pathwaycom/llm-app) - ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data",
+                "kind": "readme",
+                "start_line": 415,
+                "end_line": 415,
+                "snapshot_hash": "86820f617087920e1b6312eb4e3c771d9bf1f7aa55b9de168019d8ed8b78e547"
+              }
+            },
+            {
+              "id": "fact:3a725b67937ce6ba8af7",
+              "repo_id": "1118133888",
+              "kind": "interface",
+              "claim": "文档链接到 mudler/LocalAI。",
+              "citation": {
+                "document_id": "1118133888:readme:0",
+                "url": "https://github.com/0xSojalSec/LLMs-local/blob/787ecb36937e27b252bc35043d91715e3471bae8/README.md#L50-L51",
+                "excerpt": "://img.shields.io/github/stars/mudler/LocalAI?style=social\" height=\"17\" align=\"texttop\"/> [LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others\n- <img src=\"https://img.shields.",
+                "kind": "readme",
+                "start_line": 50,
+                "end_line": 51,
+                "snapshot_hash": "86820f617087920e1b6312eb4e3c771d9bf1f7aa55b9de168019d8ed8b78e547"
+              },
+              "origin": "document_link"
+            }
+          ],
+          "unknowns": [
+            "条目的收录标准、维护频率和描述核验方式是什么？",
+            "哪些条目经过完全离线运行验证，其硬件与许可证要求分别是什么？"
+          ],
+          "snapshot_hash": "86820f617087920e1b6312eb4e3c771d9bf1f7aa55b9de168019d8ed8b78e547",
+          "fetched_at": "2026-11-06T15:29:29.384772+00:00"
+        },
+        {
+          "repo_id": "1203574922",
+          "name": "kytmanov/obsidian-llm-wiki-local",
+          "role": "application",
+          "facts": [
+            {
+              "id": "fact:2f7729c2eee46dc59c34",
+              "repo_id": "1203574922",
+              "kind": "purpose",
+              "claim": "该工具从 Markdown 笔记提取概念并创建或更新 wiki 文章。",
+              "citation": {
+                "document_id": "1203574922:readme:0",
+                "url": "https://github.com/kytmanov/obsidian-llm-wiki-local/blob/ad2e425f20f348154dde19d7c895b9bba69b7ad5/README.md#L14-L14",
+                "excerpt": "Drop a markdown file into a folder. The pipeline reads it, extracts concepts, and creates or updates wiki articles.",
+                "kind": "readme",
+                "start_line": 14,
+                "end_line": 14,
+                "snapshot_hash": "de9dafda384ac00e199716da661bff750ebe8b54fc60853f92ca5f3a55143217"
+              }
+            },
+            {
+              "id": "fact:3fc2d86b60c5eadd1089",
+              "repo_id": "1203574922",
+              "kind": "mechanism",
+              "claim": "编译按概念生成文章，源笔记变化时仅重新编译与该笔记关联的文章。",
+              "citation": {
+                "document_id": "1203574922:readme:0",
+                "url": "https://github.com/kytmanov/obsidian-llm-wiki-local/blob/ad2e425f20f348154dde19d7c895b9bba69b7ad5/README.md#L59-L59",
+                "excerpt": "**Incremental compiles.** Each concept gets its own article. When you change a source note, only the articles tied to that note recompile, not the whole vault.",
+                "kind": "readme",
+                "start_line": 59,
+                "end_line": 59,
+                "snapshot_hash": "de9dafda384ac00e199716da661bff750ebe8b54fc60853f92ca5f3a55143217"
+              }
+            },
+            {
+              "id": "fact:8b2bb9665dc9cbd1bb16",
+              "repo_id": "1203574922",
+              "kind": "interface",
+              "claim": "默认使用本地 Ollama，也可接入 OpenAI-compatible endpoint，包括 Groq、LM Studio、vLLM 和 Azure OpenAI。",
+              "citation": {
+                "document_id": "1203574922:readme:0",
+                "url": "https://github.com/kytmanov/obsidian-llm-wiki-local/blob/ad2e425f20f348154dde19d7c895b9bba69b7ad5/README.md#L16-L16",
+                "excerpt": "**Local-first, provider-flexible.** Runs 100% locally with [Ollama](https://ollama.com) by default. Also works with any OpenAI-compatible endpoint — Groq, Together AI, LM Studio, vLLM, Azure OpenAI, and [more](#providers).",
+                "kind": "readme",
+                "start_line": 16,
+                "end_line": 16,
+                "snapshot_hash": "de9dafda384ac00e199716da661bff750ebe8b54fc60853f92ca5f3a55143217"
+              }
+            },
+            {
+              "id": "fact:460a882365c56436d3a2",
+              "repo_id": "1203574922",
+              "kind": "boundary",
+              "claim": "默认索引查询适用于所有提供方，而使用 embeddings 的 RAG 要求提供方支持 /v1/embeddings。",
+              "citation": {
+                "document_id": "1203574922:readme:1",
+                "url": "https://github.com/kytmanov/obsidian-llm-wiki-local/blob/ad2e425f20f348154dde19d7c895b9bba69b7ad5/README.md#L640-L640",
+                "excerpt": "RAG (embeddings) requires a provider that supports `/v1/embeddings`. The default index-based query works with all providers.",
+                "kind": "readme",
+                "start_line": 640,
+                "end_line": 640,
+                "snapshot_hash": "de9dafda384ac00e199716da661bff750ebe8b54fc60853f92ca5f3a55143217"
+              }
+            },
+            {
+              "id": "fact:b7951bdcaa4138d22c8e",
+              "repo_id": "1203574922",
+              "kind": "mechanism",
+              "claim": "编译器检测到文章经过手工修改后，会在下次运行时跳过该文章以保留修改。",
+              "citation": {
+                "document_id": "1203574922:readme:0",
+                "url": "https://github.com/kytmanov/obsidian-llm-wiki-local/blob/ad2e425f20f348154dde19d7c895b9bba69b7ad5/README.md#L65-L65",
+                "excerpt": "**Hand-edits are preserved.** Edit an article in Obsidian and the compiler will detect the change on the next run and skip it. Your edits aren't overwritten by regeneration.",
+                "kind": "readme",
+                "start_line": 65,
+                "end_line": 65,
+                "snapshot_hash": "de9dafda384ac00e199716da661bff750ebe8b54fc60853f92ca5f3a55143217"
+              }
+            },
+            {
+              "id": "fact:42a05367f55c4e00ee9c",
+              "repo_id": "1203574922",
+              "kind": "boundary",
+              "claim": "项目已进入维护模式，继续修复错误，新功能转向后继项目 Synto。",
+              "citation": {
+                "document_id": "1203574922:readme:0",
+                "url": "https://github.com/kytmanov/obsidian-llm-wiki-local/blob/ad2e425f20f348154dde19d7c895b9bba69b7ad5/README.md#L21-L23",
+                "excerpt": "**obsidian-llm-wiki is now in maintenance mode. → [Check out Synto](https://github.com/kytmanov/synto)**\n>\n> Bug fixes will continue. New features are being developed in [**Synto**](https://github.com/kytmanov/synto) — the successor with a broader scope than the Obsidian LLM wiki pattern.",
+                "kind": "readme",
+                "start_line": 21,
+                "end_line": 23,
+                "snapshot_hash": "de9dafda384ac00e199716da661bff750ebe8b54fc60853f92ca5f3a55143217"
+              }
+            }
+          ],
+          "unknowns": [
+            "超过约 100 篇源笔记后，索引查询的召回质量、延迟及上下文开销如何变化？",
+            "源笔记更新但关联文章已被手工修改时，如何协调内容更新与编辑保护？",
+            "Synto 迁移对草稿、拒绝反馈和历史状态的保留范围是什么？"
+          ],
+          "snapshot_hash": "de9dafda384ac00e199716da661bff750ebe8b54fc60853f92ca5f3a55143217",
+          "fetched_at": "2026-11-06T15:29:52.326941+00:00"
+        },
+        {
+          "repo_id": "1288292418",
+          "name": "jamesob/local-llm",
+          "role": "resource",
+          "facts": [
+            {
+              "id": "fact:378cc027cbe775a78c60",
+              "repo_id": "1288292418",
+              "kind": "purpose",
+              "claim": "local-llm 是本地模型运行经验指南，附带硬件说明、STT 方法和 Docker 运行配置。",
+              "citation": {
+                "document_id": "1288292418:readme:0",
+                "url": "https://github.com/jamesob/local-llm/blob/4172e40db404ecb6e3e97a0fae397364dfda9c6f/README.md#L17-L22",
+                "excerpt": "In this repo you'll find\n\n- the hardware I use to run SOTA locally,\n  - why I bought what and little-known *secrets* for configuring it,\n- how I run speech-to-text (STT) locally,\n- ready-to-run configuration for running models I think are good within Docker containers.",
+                "kind": "readme",
+                "start_line": 17,
+                "end_line": 22,
+                "snapshot_hash": "d4c82998e2fdc3b1a7427324de9614dc1278caf30150d6962de133d06674079c"
+              }
+            },
+            {
+              "id": "fact:afeae3877b897f904c8f",
+              "repo_id": "1288292418",
+              "kind": "mechanism",
+              "claim": "作者按模型分别使用 docker-compose.yml 启动容器，并只读挂载 ~/storage/models 获取缓存权重。",
+              "citation": {
+                "document_id": "1288292418:readme:0",
+                "url": "https://github.com/jamesob/local-llm/blob/4172e40db404ecb6e3e97a0fae397364dfda9c6f/README.md#L185-L192",
+                "excerpt": "Once the model weights are cached locally, I have a specific directory for each model\nthat contains a `docker-compose.yml` file that cordones off the running of each model\nto its own Docker container.\n\nYou can find these configurations in [`./runners/`](./runners).\n\nEach container mounts in `~/storage/models` in read-only mode to obtain the weights\nthat I've cached locally.",
+                "kind": "readme",
+                "start_line": 185,
+                "end_line": 192,
+                "snapshot_hash": "d4c82998e2fdc3b1a7427324de9614dc1278caf30150d6962de133d06674079c"
+              }
+            },
+            {
+              "id": "fact:2711b48ca57a8df6ab95",
+              "repo_id": "1288292418",
+              "kind": "interface",
+              "claim": "作者在另一台机器的 VM 中运行 opencode，通过端口 5000 访问模型服务。",
+              "citation": {
+                "document_id": "1288292418:readme:0",
+                "url": "https://github.com/jamesob/local-llm/blob/4172e40db404ecb6e3e97a0fae397364dfda9c6f/README.md#L194-L198",
+                "excerpt": "I then use `opencode` hosted on a VM on another machine to access the models once\nthey're serving on `http://clank.j.co:5000`. \n\nI use a network-internal DNS server to point `clank.j.co` to the LLM machine, but you\ncould simply do `http://<llm-machine-ip>:5000` too.",
+                "kind": "readme",
+                "start_line": 194,
+                "end_line": 198,
+                "snapshot_hash": "d4c82998e2fdc3b1a7427324de9614dc1278caf30150d6962de133d06674079c"
+              }
+            },
+            {
+              "id": "fact:dea8ba1f3e8c4aa3d49c",
+              "repo_id": "1288292418",
+              "kind": "boundary",
+              "claim": "文档称 runners/stt 配置要求 Nvidia GPU 上约 11GB 显存。",
+              "citation": {
+                "document_id": "1288292418:readme:0",
+                "url": "https://github.com/jamesob/local-llm/blob/4172e40db404ecb6e3e97a0fae397364dfda9c6f/README.md#L86-L88",
+                "excerpt": "You can find a ready-to-run config in\n[`./runners/stt`](./runners/stt) that only assumes the presence of ~11GB of VRAM on an\nNvidia GPU.",
+                "kind": "readme",
+                "start_line": 86,
+                "end_line": 88,
+                "snapshot_hash": "d4c82998e2fdc3b1a7427324de9614dc1278caf30150d6962de133d06674079c"
+              }
+            },
+            {
+              "id": "fact:87be6dbac7aa037b92e8",
+              "repo_id": "1288292418",
+              "kind": "mechanism",
+              "claim": "作者通过运行时 setpci 禁用 ACS，使 GPU P2P 流量留在 PCIe 交换机内部。",
+              "citation": {
+                "document_id": "1288292418:readme:0",
+                "url": "https://github.com/jamesob/local-llm/blob/4172e40db404ecb6e3e97a0fae397364dfda9c6f/README.md#L270-L272",
+                "excerpt": "With ACS enabled (default), P2P traffic gets bounced through the CPU root port\ninstead of staying inside the switch fabric, negating the switch entirely.\n`pcie_acs_override` requires a patched kernel, so we disable via setpci at runtime.",
+                "kind": "readme",
+                "start_line": 270,
+                "end_line": 272,
+                "snapshot_hash": "d4c82998e2fdc3b1a7427324de9614dc1278caf30150d6962de133d06674079c"
+              }
+            }
+          ],
+          "unknowns": [
+            "这些 runner 所需的驱动、CUDA、容器运行时和镜像版本是什么？",
+            "示例下载路径 ~/storage/<model-name> 与容器挂载路径 ~/storage/models 应如何对应？",
+            "服务端口的认证和网络访问控制如何配置？"
+          ],
+          "snapshot_hash": "d4c82998e2fdc3b1a7427324de9614dc1278caf30150d6962de133d06674079c",
+          "fetched_at": "2026-11-06T15:29:31.797704+00:00"
+        },
+        {
+          "repo_id": "615869301",
+          "name": "mudler/LocalAI",
+          "role": "infrastructure",
+          "facts": [
+            {
+              "id": "fact:2d08c7c605b719e74ebe",
+              "repo_id": "615869301",
+              "kind": "purpose",
+              "claim": "LocalAI 通过统一 API 提供 LLM、视觉、语音、图像和视频模型能力。",
+              "citation": {
+                "document_id": "615869301:readme:0",
+                "url": "https://github.com/mudler/LocalAI/blob/e961830f84d066e6f1ff6bcf77aba52f581661c7/README.md#L48-L48",
+                "excerpt": "- **Any model, any modality**: LLMs, vision, voice, image, and video behind one API",
+                "kind": "readme",
+                "start_line": 48,
+                "end_line": 48,
+                "snapshot_hash": "5ff4fee9a77641f8d299c8daf390fe9d405139eb500b78bd84889d1934c78539"
+              }
+            },
+            {
+              "id": "fact:86b1aacc2a6b58e4b162",
+              "repo_id": "615869301",
+              "kind": "mechanism",
+              "claim": "各后端将推理引擎封装在独立镜像中，仅在模型需要时拉取。",
+              "citation": {
+                "document_id": "615869301:readme:0",
+                "url": "https://github.com/mudler/LocalAI/blob/e961830f84d066e6f1ff6bcf77aba52f581661c7/README.md#L43-L43",
+                "excerpt": "Each backend wraps a best-in-class engine (llama.cpp, vLLM, whisper.cpp, stable-diffusion, MLX...) in its own image, pulled only when a model needs it.",
+                "kind": "readme",
+                "start_line": 43,
+                "end_line": 43,
+                "snapshot_hash": "5ff4fee9a77641f8d299c8daf390fe9d405139eb500b78bd84889d1934c78539"
+              }
+            },
+            {
+              "id": "fact:995e1d5f284f1136a8c3",
+              "repo_id": "615869301",
+              "kind": "interface",
+              "claim": "README 声称各后端兼容 OpenAI、Anthropic 和 ElevenLabs APIs。",
+              "citation": {
+                "document_id": "615869301:readme:0",
+                "url": "https://github.com/mudler/LocalAI/blob/e961830f84d066e6f1ff6bcf77aba52f581661c7/README.md#L47-L47",
+                "excerpt": "- **Drop-in API compatibility**: OpenAI, Anthropic, and ElevenLabs APIs across every backend",
+                "kind": "readme",
+                "start_line": 47,
+                "end_line": 47,
+                "snapshot_hash": "5ff4fee9a77641f8d299c8daf390fe9d405139eb500b78bd84889d1934c78539"
+              }
+            },
+            {
+              "id": "fact:873a6a9d2c1b1e80ba56",
+              "repo_id": "615869301",
+              "kind": "boundary",
+              "claim": "文档列出的运行硬件包括 NVIDIA、AMD、Intel、Apple Silicon、Vulkan 和纯 CPU。",
+              "citation": {
+                "document_id": "615869301:readme:0",
+                "url": "https://github.com/mudler/LocalAI/blob/e961830f84d066e6f1ff6bcf77aba52f581661c7/README.md#L49-L49",
+                "excerpt": "- **Any hardware**: NVIDIA, AMD, Intel, Apple Silicon, Vulkan, or CPU-only",
+                "kind": "readme",
+                "start_line": 49,
+                "end_line": 49,
+                "snapshot_hash": "5ff4fee9a77641f8d299c8daf390fe9d405139eb500b78bd84889d1934c78539"
+              }
+            },
+            {
+              "id": "fact:3055f37f998ed6c75013",
+              "repo_id": "615869301",
+              "kind": "interface",
+              "claim": "仓库提供独立的 Go Realtime API 语音助手示例，包含工具调用。",
+              "citation": {
+                "document_id": "615869301:readme:1",
+                "url": "https://github.com/mudler/LocalAI/blob/e961830f84d066e6f1ff6bcf77aba52f581661c7/README.md#L274-L274",
+                "excerpt": "- [Examples](https://github.com/mudler/LocalAI-examples) — including the [realtime voice assistant demo](https://github.com/localai-org/localai-realtime-demo) (Go client for the Realtime API with tool calling)",
+                "kind": "readme",
+                "start_line": 274,
+                "end_line": 274,
+                "snapshot_hash": "5ff4fee9a77641f8d299c8daf390fe9d405139eb500b78bd84889d1934c78539"
+              }
+            }
+          ],
+          "unknowns": [
+            "各后端的 API 兼容范围、参数差异和限制具体是什么？",
+            "指定模型在目标硬件上的内存需求、延迟和并发容量是多少？"
+          ],
+          "snapshot_hash": "5ff4fee9a77641f8d299c8daf390fe9d405139eb500b78bd84889d1934c78539",
+          "fetched_at": "2026-11-06T15:29:22.121026+00:00"
+        },
+        {
+          "repo_id": "619959033",
+          "name": "nomic-ai/gpt4all",
+          "role": "application",
+          "facts": [
+            {
+              "id": "fact:709a75c05666102f4489",
+              "repo_id": "619959033",
+              "kind": "purpose",
+              "claim": "GPT4All 用于在台式机和笔记本上本地运行 LLM。",
+              "citation": {
+                "document_id": "619959033:readme:0",
+                "url": "https://github.com/nomic-ai/gpt4all/blob/b666d16db5aeab8b91aaf7963adcee9c643734d7/README.md#L12-L12",
+                "excerpt": "GPT4All runs large language models (LLMs) privately on everyday desktops & laptops.",
+                "kind": "readme",
+                "start_line": 12,
+                "end_line": 12,
+                "snapshot_hash": "b9d51f8dc9cd5ccc4769974cdbf3bef8989ba0282a91dac0e137945147ff7abc"
+              }
+            },
+            {
+              "id": "fact:57bd02dc400095afe37c",
+              "repo_id": "619959033",
+              "kind": "boundary",
+              "claim": "README 表明运行应用不要求 API 调用或 GPU。",
+              "citation": {
+                "document_id": "619959033:readme:0",
+                "url": "https://github.com/nomic-ai/gpt4all/blob/b666d16db5aeab8b91aaf7963adcee9c643734d7/README.md#L15-L15",
+                "excerpt": "No API calls or GPUs required - you can just download the application",
+                "kind": "readme",
+                "start_line": 15,
+                "end_line": 15,
+                "snapshot_hash": "b9d51f8dc9cd5ccc4769974cdbf3bef8989ba0282a91dac0e137945147ff7abc"
+              }
+            },
+            {
+              "id": "fact:76d496677f7153967b42",
+              "repo_id": "619959033",
+              "kind": "interface",
+              "claim": "gpt4all 提供封装 llama.cpp 实现的 Python 客户端。",
+              "citation": {
+                "document_id": "619959033:readme:0",
+                "url": "https://github.com/nomic-ai/gpt4all/blob/b666d16db5aeab8b91aaf7963adcee9c643734d7/README.md#L79-L79",
+                "excerpt": "`gpt4all` gives you access to LLMs with our Python client around [`llama.cpp`](https://github.com/ggerganov/llama.cpp) implementations.",
+                "kind": "readme",
+                "start_line": 79,
+                "end_line": 79,
+                "snapshot_hash": "b9d51f8dc9cd5ccc4769974cdbf3bef8989ba0282a91dac0e137945147ff7abc"
+              }
+            },
+            {
+              "id": "fact:4d32a89a09d76bfa8e3d",
+              "repo_id": "619959033",
+              "kind": "boundary",
+              "claim": "Linux 构建仅支持 x86-64，不支持 ARM。",
+              "citation": {
+                "document_id": "619959033:readme:0",
+                "url": "https://github.com/nomic-ai/gpt4all/blob/b666d16db5aeab8b91aaf7963adcee9c643734d7/README.md#L60-L60",
+                "excerpt": "The Linux build is x86-64 only (no ARM).",
+                "kind": "readme",
+                "start_line": 60,
+                "end_line": 60,
+                "snapshot_hash": "b9d51f8dc9cd5ccc4769974cdbf3bef8989ba0282a91dac0e137945147ff7abc"
+              }
+            },
+            {
+              "id": "fact:dbce3df4c11024b5b33b",
+              "repo_id": "619959033",
+              "kind": "interface",
+              "claim": "发布历史记载 Docker API server 可通过 OpenAI 兼容 HTTP 端点提供本地 LLM 推理。",
+              "citation": {
+                "document_id": "619959033:readme:0",
+                "url": "https://github.com/nomic-ai/gpt4all/blob/b666d16db5aeab8b91aaf7963adcee9c643734d7/README.md#L112-L114",
+                "excerpt": "- **June 28th, 2023**: [Docker-based API server] launches allowing inference of local LLMs from an OpenAI-compatible HTTP endpoint.\n\n[Docker-based API server]: https://github.com/nomic-ai/gpt4all/tree/cef74c2be20f5b697055d5b8b506861c7b997fab/gpt4all-api",
+                "kind": "readme",
+                "start_line": 112,
+                "end_line": 114,
+                "snapshot_hash": "b9d51f8dc9cd5ccc4769974cdbf3bef8989ba0282a91dac0e137945147ff7abc"
+              }
+            }
+          ],
+          "unknowns": [
+            "不同模型的最低内存需求及实际推理速度是多少？",
+            "历史 Docker API server 在当前版本中的维护状态和兼容范围是什么？",
+            "应用与各模型的商业使用许可分别有哪些限制？"
+          ],
+          "snapshot_hash": "b9d51f8dc9cd5ccc4769974cdbf3bef8989ba0282a91dac0e137945147ff7abc",
+          "fetched_at": "2026-11-06T15:29:44.405909+00:00"
+        },
+        {
+          "repo_id": "637313883",
+          "name": "Troyanovsky/Local-LLM-Comparison-Colab-UI",
+          "role": "resource",
+          "facts": [
+            {
+              "id": "fact:ec157eadd1cc7a2df9dd",
+              "repo_id": "637313883",
+              "kind": "purpose",
+              "claim": "该仓库汇集面向消费级硬件的本地 LLM 比较资料及 Colab WebUI 试用入口。",
+              "citation": {
+                "document_id": "637313883:description",
+                "url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI",
+                "excerpt": "Compare the performance of different LLM that can be deployed locally on consumer hardware. Run yourself with Colab WebUI.",
+                "kind": "description",
+                "start_line": 1,
+                "end_line": 1,
+                "snapshot_hash": "e0830c2375d422f07c803f4ad1357d204dc929618ff118a934711251edcd7102"
+              }
+            },
+            {
+              "id": "fact:4d8e066f13bf95bacca4",
+              "repo_id": "637313883",
+              "kind": "mechanism",
+              "claim": "早期比较针对 7B、13B 模型，以 GPT-4 对一组问题的回答评分。",
+              "citation": {
+                "document_id": "637313883:readme:0",
+                "url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI/blob/1157277109858b02f0a56f3b9f738787a7df4ec6/README.md#L2-L2",
+                "excerpt": "The original goal of the repo was to compare some smaller models (7B and 13B) that can be run on consumer hardware so every model had a score for a set of questions from GPT-4.",
+                "kind": "readme",
+                "start_line": 2,
+                "end_line": 2,
+                "snapshot_hash": "e0830c2375d422f07c803f4ad1357d204dc929618ff118a934711251edcd7102"
+              }
+            },
+            {
+              "id": "fact:080763874dedfa40802c",
+              "repo_id": "637313883",
+              "kind": "boundary",
+              "claim": "作者认为原有评估流程可能不足，较新模型改为仅提供 Colab WebUI 链接供用户自行试用。",
+              "citation": {
+                "document_id": "637313883:readme:0",
+                "url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI/blob/1157277109858b02f0a56f3b9f738787a7df4ec6/README.md#L2-L4",
+                "excerpt": "But I realized that as there are many more capable models appearing, the evaluation and comparison process may not suffice. \n\nTherefore, I'm only putting Colab WebUI links for the newer models and you can try them out yourselves with a few clicks",
+                "kind": "readme",
+                "start_line": 2,
+                "end_line": 4,
+                "snapshot_hash": "e0830c2375d422f07c803f4ad1357d204dc929618ff118a934711251edcd7102"
+              }
+            },
+            {
+              "id": "fact:f87132f607667bc9e770",
+              "repo_id": "637313883",
+              "kind": "interface",
+              "claim": "模型试用入口包括指向仓库内 phi_2.ipynb 的 Colab 链接。",
+              "citation": {
+                "document_id": "637313883:readme:0",
+                "url": "https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI/blob/1157277109858b02f0a56f3b9f738787a7df4ec6/README.md#L26-L26",
+                "excerpt": "https://colab.research.google.com/github/Troyanovsky/Local-LLM-Comparison-Colab-UI/blob/main/phi_2.ipynb",
+                "kind": "readme",
+                "start_line": 26,
+                "end_line": 26,
+                "snapshot_hash": "e0830c2375d422f07c803f4ad1357d204dc929618ff118a934711251edcd7102"
+              }
+            }
+          ],
+          "unknowns": [
+            "各 notebook 当前是否仍能运行，其推理后端和依赖版本是什么？",
+            "各模型对应的最低内存、显存及 Colab 运行时要求是什么？",
+            "历史评分采用哪些提示词、采样参数和重复评测流程？"
+          ],
+          "snapshot_hash": "e0830c2375d422f07c803f4ad1357d204dc929618ff118a934711251edcd7102",
+          "fetched_at": "2026-11-06T15:29:49.930717+00:00"
+        },
+        {
+          "repo_id": "649170660",
+          "name": "Mintplex-Labs/anything-llm",
+          "role": "application",
+          "facts": [
+            {
+              "id": "fact:54795a338de5e79e3531",
+              "repo_id": "649170660",
+              "kind": "purpose",
+              "claim": "AnythingLLM 支持连接本地或云端 LLM，并导入文档进行对话。",
+              "citation": {
+                "document_id": "649170660:readme:0",
+                "url": "https://github.com/Mintplex-Labs/anything-llm/blob/308b27662b2f6fd4947791d61c797945c609fcbc/README.md#L59-L59",
+                "excerpt": "Connect your favorite local or cloud LLM, ingest your documents, and start chatting in minutes.",
+                "kind": "readme",
+                "start_line": 59,
+                "end_line": 59,
+                "snapshot_hash": "b317a0be2c58714b516d9bc5aff8ee3e515a35112f5987ffc87fa2f4f67bba08"
+              }
+            },
+            {
+              "id": "fact:6021ebe9ed1dec45c128",
+              "repo_id": "649170660",
+              "kind": "mechanism",
+              "claim": "AnythingLLM 的 NodeJS express server 管理向量数据库和 LLM 交互，collector 负责解析 UI 提交的文档。",
+              "citation": {
+                "document_id": "649170660:readme:0",
+                "url": "https://github.com/Mintplex-Labs/anything-llm/blob/308b27662b2f6fd4947791d61c797945c609fcbc/README.md#L180-L181",
+                "excerpt": "- `server`: A NodeJS express server to handle all the interactions and do all the vectorDB management and LLM interactions.\n- `collector`: NodeJS express server that processes and parses documents from the UI.",
+                "kind": "readme",
+                "start_line": 180,
+                "end_line": 181,
+                "snapshot_hash": "b317a0be2c58714b516d9bc5aff8ee3e515a35112f5987ffc87fa2f4f67bba08"
+              }
+            },
+            {
+              "id": "fact:c0a2ef049a82d6b63e49",
+              "repo_id": "649170660",
+              "kind": "interface",
+              "claim": "内置本地 LLM 引擎基于 Lemonade 和 llama.cpp，支持 CPU 及 CUDA/Vulkan GPU 路径。",
+              "citation": {
+                "document_id": "649170660:readme:0",
+                "url": "https://github.com/Mintplex-Labs/anything-llm/blob/308b27662b2f6fd4947791d61c797945c609fcbc/README.md#L65-L65",
+                "excerpt": "- [Built-in local LLM engine](/docker/HOW_TO_USE_DOCKER.md#built-in-llm-engine-optional) - Run local models on your CPU or GPU (NVIDIA via CUDA, AMD and Intel via Vulkan) with no extra setup, powered by [Lemonade](https://lemonade-server.ai) and [llama.cpp](https://github.com/ggml-org/llama.cpp).",
+                "kind": "readme",
+                "start_line": 65,
+                "end_line": 65,
+                "snapshot_hash": "b317a0be2c58714b516d9bc5aff8ee3e515a35112f5987ffc87fa2f4f67bba08"
+              }
+            },
+            {
+              "id": "fact:56ace7321cf470c80e26",
+              "repo_id": "649170660",
+              "kind": "boundary",
+              "claim": "多用户实例及权限管理仅适用于 Docker 版本。",
+              "citation": {
+                "document_id": "649170660:readme:0",
+                "url": "https://github.com/Mintplex-Labs/anything-llm/blob/308b27662b2f6fd4947791d61c797945c609fcbc/README.md#L74-L74",
+                "excerpt": "- 👤 Multi-user instance support and permissioning _Docker version only_",
+                "kind": "readme",
+                "start_line": 74,
+                "end_line": 74,
+                "snapshot_hash": "b317a0be2c58714b516d9bc5aff8ee3e515a35112f5987ffc87fa2f4f67bba08"
+              }
+            },
+            {
+              "id": "fact:659441eb6a02b8151def",
+              "repo_id": "649170660",
+              "kind": "boundary",
+              "claim": "关闭遥测后，使用外部工具、模型或向量数据库仍会连接相应服务商。",
+              "citation": {
+                "document_id": "649170660:readme:0",
+                "url": "https://github.com/Mintplex-Labs/anything-llm/blob/308b27662b2f6fd4947791d61c797945c609fcbc/README.md#L250-L252",
+                "excerpt": "If you disable telemetry, you would still see outbound connections to the following services:\n\n- If using an external tool, LLM, Embedding models, or Vector databases, you will still see outbound connections to the respective service provider.",
+                "kind": "readme",
+                "start_line": 250,
+                "end_line": 252,
+                "snapshot_hash": "b317a0be2c58714b516d9bc5aff8ee3e515a35112f5987ffc87fa2f4f67bba08"
+              }
+            }
+          ],
+          "unknowns": [
+            "文档切分、检索和引用生成的默认策略及可配置范围是什么？",
+            "多用户权限在文档、工作区和 Agent 工具之间如何隔离？"
+          ],
+          "snapshot_hash": "b317a0be2c58714b516d9bc5aff8ee3e515a35112f5987ffc87fa2f4f67bba08",
+          "fetched_at": "2026-11-06T15:29:24.493389+00:00"
+        },
+        {
+          "repo_id": "751783691",
+          "name": "thu-vu92/local-llms-analyse-finance",
+          "role": "example",
+          "facts": [
+            {
+              "id": "fact:505cd0f41a069eb8756f",
+              "repo_id": "751783691",
+              "kind": "purpose",
+              "claim": "该示例项目探索使用 Llama2 自动分类个人银行交易数据以支持分析。",
+              "citation": {
+                "document_id": "751783691:description",
+                "url": "https://github.com/thu-vu92/local-llms-analyse-finance",
+                "excerpt": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
+                "kind": "description",
+                "start_line": 1,
+                "end_line": 1,
+                "snapshot_hash": "3e0839974aa973ab65d8a6b80ae7b7c7a592c83361b3502e579bd754dee50ba4"
+              }
+            },
+            {
+              "id": "fact:25d2a24059c87264f103",
+              "repo_id": "751783691",
+              "kind": "interface",
+              "claim": "README 将 Ollama 列为本地 LLM 安装途径，并在该节标注 MacOS 和 Linux 支持。",
+              "citation": {
+                "document_id": "751783691:readme:0",
+                "url": "https://github.com/thu-vu92/local-llms-analyse-finance/blob/a443f60522a57d298e523981007960c1f1c604db/README.md#L4-L5",
+                "excerpt": "## Installing local LLMs with Ollama (currently support MacOS and Linux)\nhttps://ollama.ai/",
+                "kind": "readme",
+                "start_line": 4,
+                "end_line": 5,
+                "snapshot_hash": "3e0839974aa973ab65d8a6b80ae7b7c7a592c83361b3502e579bd754dee50ba4"
+              }
+            },
+            {
+              "id": "fact:8e4945589ac32e3a0248",
+              "repo_id": "751783691",
+              "kind": "boundary",
+              "claim": "仓库示例数据为虚构数据，仅用于演示。",
+              "citation": {
+                "document_id": "751783691:readme:0",
+                "url": "https://github.com/thu-vu92/local-llms-analyse-finance/blob/a443f60522a57d298e523981007960c1f1c604db/README.md#L14-L14",
+                "excerpt": "The example data in this repo are fictious and for illustration purposes.",
+                "kind": "readme",
+                "start_line": 14,
+                "end_line": 14,
+                "snapshot_hash": "3e0839974aa973ab65d8a6b80ae7b7c7a592c83361b3502e579bd754dee50ba4"
+              }
+            }
+          ],
+          "unknowns": [
+            "交易输入格式、分类标签体系和提示词如何定义？",
+            "分类准确性如何评估，错误结果如何复核？"
+          ],
+          "snapshot_hash": "3e0839974aa973ab65d8a6b80ae7b7c7a592c83361b3502e579bd754dee50ba4",
+          "fetched_at": "2026-11-06T15:29:36.902095+00:00"
+        },
+        {
+          "repo_id": "764998085",
+          "name": "vince-lam/awesome-local-llms",
+          "role": "resource",
+          "facts": [
+            {
+              "id": "fact:3a6de6977cbbd3614767",
+              "repo_id": "764998085",
+              "kind": "purpose",
+              "claim": "该项目是覆盖模型、训练、推理、agent、应用及教程的 LLM 开源资源目录。",
+              "citation": {
+                "document_id": "764998085:readme:0",
+                "url": "https://github.com/vince-lam/awesome-local-llms/blob/5a3f7668e5190c12eab85fff3f22edff7ecc11a1/README.md#L22-L22",
+                "excerpt": "A curated list of open-source projects for building with LLMs, covering the whole stack: model weights, training code, inference runtimes, agent frameworks, end-user apps, and the lists and tutorials that help you learn.",
+                "kind": "readme",
+                "start_line": 22,
+                "end_line": 22,
+                "snapshot_hash": "2c131df06f589bea4f628b938da97004f709856b19c8e0070c3407dd7d6c9c7c"
+              }
+            },
+            {
+              "id": "fact:855f0555ed174dbfc988",
+              "repo_id": "764998085",
+              "kind": "mechanism",
+              "claim": "目录每日采集仓库 stars、多个时间窗口的增长量、forks、贡献者、问题数及最后提交时间等指标。",
+              "citation": {
+                "document_id": "764998085:readme:0",
+                "url": "https://github.com/vince-lam/awesome-local-llms/blob/5a3f7668e5190c12eab85fff3f22edff7ecc11a1/README.md#L24-L24",
+                "excerpt": "Each repo is checked once a day for stars, 1d/7d/30d star growth, forks, contributors, open issues, language, license, creation date, and time since last commit.",
+                "kind": "readme",
+                "start_line": 24,
+                "end_line": 24,
+                "snapshot_hash": "2c131df06f589bea4f628b938da97004f709856b19c8e0070c3407dd7d6c9c7c"
+              }
+            },
+            {
+              "id": "fact:21aef9ce37346ba3cbbb",
+              "repo_id": "764998085",
+              "kind": "mechanism",
+              "claim": "每日刷新通过 GitHub Actions 将数据写入 Turso（libSQL）数据库。",
+              "citation": {
+                "document_id": "764998085:readme:0",
+                "url": "https://github.com/vince-lam/awesome-local-llms/blob/5a3f7668e5190c12eab85fff3f22edff7ecc11a1/README.md#L53-L53",
+                "excerpt": "| Refresh | Manual, later weekly | Daily, via GitHub Actions into a [Turso](https://turso.tech) (libSQL) database |",
+                "kind": "readme",
+                "start_line": 53,
+                "end_line": 53,
+                "snapshot_hash": "2c131df06f589bea4f628b938da97004f709856b19c8e0070c3407dd7d6c9c7c"
+              }
+            },
+            {
+              "id": "fact:ba1f47deec6b20339562",
+              "repo_id": "764998085",
+              "kind": "interface",
+              "claim": "llmrepos.com 提供搜索、增长排序及分类、语言、许可证筛选，README 则每周一重新生成。",
+              "citation": {
+                "document_id": "764998085:readme:0",
+                "url": "https://github.com/vince-lam/awesome-local-llms/blob/5a3f7668e5190c12eab85fff3f22edff7ecc11a1/README.md#L28-L29",
+                "excerpt": "- [**llmrepos.com**](https://llmrepos.com) has all 11,000+ repos, with search, growth sorting, and filters by category, subcategory, language, and license.\n- **This README** mixes established leaders with projects gaining stars this week, regenerated every Monday.",
+                "kind": "readme",
+                "start_line": 28,
+                "end_line": 29,
+                "snapshot_hash": "2c131df06f589bea4f628b938da97004f709856b19c8e0070c3407dd7d6c9c7c"
+              }
+            },
+            {
+              "id": "fact:2f4477f1a0e81435d583",
+              "repo_id": "764998085",
+              "kind": "boundary",
+              "claim": "README 排名要求仓库超过 100 stars 且最近 60 天内有提交，周增长排名还要求完整七天历史。",
+              "citation": {
+                "document_id": "764998085:readme:1",
+                "url": "https://github.com/vince-lam/awesome-local-llms/blob/5a3f7668e5190c12eab85fff3f22edff7ecc11a1/README.md#L193-L193",
+                "excerpt": "The rankings above require more than 100 stars and a commit within the last 60 days. Weekly movers need a complete seven-day history.",
+                "kind": "readme",
+                "start_line": 193,
+                "end_line": 193,
+                "snapshot_hash": "2c131df06f589bea4f628b938da97004f709856b19c8e0070c3407dd7d6c9c7c"
+              }
+            }
+          ],
+          "unknowns": [
+            "自动发现和分类的规则、覆盖范围与误分类纠正流程是什么？",
+            "如何处理镜像仓库、重复项目及异常 star 增长？",
+            "历史指标是否提供可下载数据或查询 API？"
+          ],
+          "snapshot_hash": "2c131df06f589bea4f628b938da97004f709856b19c8e0070c3407dd7d6c9c7c",
+          "fetched_at": "2026-11-06T15:29:54.607738+00:00"
+        },
+        {
+          "repo_id": "776632801",
+          "name": "vndee/local-talking-llm",
+          "role": "application",
+          "facts": [
+            {
+              "id": "fact:f841f6d60e519e0698f7",
+              "repo_id": "776632801",
+              "kind": "purpose",
+              "claim": "local-talking-llm 提供可在个人电脑离线运行的语音对话助手。",
+              "citation": {
+                "document_id": "776632801:description",
+                "url": "https://github.com/vndee/local-talking-llm",
+                "excerpt": "A talking LLM that runs on your own computer without needing the internet.",
+                "kind": "description",
+                "start_line": 1,
+                "end_line": 1,
+                "snapshot_hash": "b3b9852bd2bc864c97403214c051c9bd46f9988006cdc06ac4f2840f27330d57"
+              }
+            },
+            {
+              "id": "fact:9a627b6dcccdfdf2ce00",
+              "repo_id": "776632801",
+              "kind": "mechanism",
+              "claim": "应用通过 Whisper 转写语音，经 Langchain 对接 LLM，再用 Chatterbox TTS 合成回复音频。",
+              "citation": {
+                "document_id": "776632801:readme:0",
+                "url": "https://github.com/vndee/local-talking-llm/blob/0f538c0e05139010f24b4835f7512c5dbc55624e/README.md#L45-L50",
+                "excerpt": "A[🎤 User Speech Input] --> B[Speech Recognition<br/>OpenAI Whisper]\n    B --> C[📝 Text Transcription]\n    C --> D[Conversational Chain<br/>Langchain + Ollama / MiniMax<br/>Gemma3 / Llama-4 / MiniMax-M2.7]\n    D --> E[🤖 Generated Response]\n    E --> F[Speech Synthesizer<br/>Chatterbox TTS]\n    F --> G[🔊 Audio Output]",
+                "kind": "readme",
+                "start_line": 45,
+                "end_line": 50,
+                "snapshot_hash": "b3b9852bd2bc864c97403214c051c9bd46f9988006cdc06ac4f2840f27330d57"
+              }
+            },
+            {
+              "id": "fact:98afe95f207bebb4dda9",
+              "repo_id": "776632801",
+              "kind": "boundary",
+              "claim": "选择 MiniMax 时无需安装 Ollama，LLM 在云端运行，而 TTS 和 STT 仍在本地运行。",
+              "citation": {
+                "document_id": "776632801:readme:0",
+                "url": "https://github.com/vndee/local-talking-llm/blob/0f538c0e05139010f24b4835f7512c5dbc55624e/README.md#L127-L127",
+                "excerpt": "No Ollama installation is needed when using MiniMax — the LLM runs in the cloud while TTS and STT still run locally.",
+                "kind": "readme",
+                "start_line": 127,
+                "end_line": 127,
+                "snapshot_hash": "b3b9852bd2bc864c97403214c051c9bd46f9988006cdc06ac4f2840f27330d57"
+              }
+            },
+            {
+              "id": "fact:aa003f9465253805bb24",
+              "repo_id": "776632801",
+              "kind": "interface",
+              "claim": "CLI 通过 --voice 指定克隆音频，并通过 --exaggeration 与 --cfg-weight 控制情绪和语速风格。",
+              "citation": {
+                "document_id": "776632801:readme:0",
+                "url": "https://github.com/vndee/local-talking-llm/blob/0f538c0e05139010f24b4835f7512c5dbc55624e/README.md#L174-L180",
+                "excerpt": "- `--voice`: Path to audio file for voice cloning\n- `--exaggeration`: Emotion intensity (0.0-1.0, default: 0.5)\n  - Lower values (0.3-0.4): Calmer, more neutral delivery\n  - Higher values (0.7-0.9): More expressive and emotional\n- `--cfg-weight`: Controls pacing and delivery style (0.0-1.0, default: 0.5)\n  - Lower values: Faster, more dynamic speech\n  - Higher values: Slower, more deliberate speech",
+                "kind": "readme",
+                "start_line": 174,
+                "end_line": 180,
+                "snapshot_hash": "b3b9852bd2bc864c97403214c051c9bd46f9988006cdc06ac4f2840f27330d57"
+              }
+            },
+            {
+              "id": "fact:568d3806de4bd16c38b6",
+              "repo_id": "776632801",
+              "kind": "mechanism",
+              "claim": "文档中的情绪分析函数从 0.5 起按命中关键词逐项加 0.1，并将返回值限制在 0.3 至 0.9。",
+              "citation": {
+                "document_id": "776632801:readme:0",
+                "url": "https://github.com/vndee/local-talking-llm/blob/0f538c0e05139010f24b4835f7512c5dbc55624e/README.md#L219-L226",
+                "excerpt": "def analyze_emotion(text: str) -> float:\n    emotional_keywords = ['amazing', 'terrible', 'love', 'hate', 'excited',\n                         'sad', 'happy', 'angry', '!', '?!']\n    emotion_score = 0.5\n    for keyword in emotional_keywords:\n        if keyword in text.lower():\n            emotion_score += 0.1\n    return min(0.9, max(0.3, emotion_score))",
+                "kind": "readme",
+                "start_line": 219,
+                "end_line": 226,
+                "snapshot_hash": "b3b9852bd2bc864c97403214c051c9bd46f9988006cdc06ac4f2840f27330d57"
+              }
+            }
+          ],
+          "unknowns": [
+            "完整语音链路的最低内存、显存要求和端到端延迟是多少？",
+            "自动情绪分析与用户指定 --exaggeration 的优先关系是什么？",
+            "完全离线运行前需要预先下载哪些模型与资源？"
+          ],
+          "snapshot_hash": "b3b9852bd2bc864c97403214c051c9bd46f9988006cdc06ac4f2840f27330d57",
+          "fetched_at": "2026-11-06T15:29:34.415411+00:00"
+        },
+        {
+          "repo_id": "974827014",
+          "name": "tattn/LocalLLMClient",
+          "role": "library",
+          "facts": [
+            {
+              "id": "fact:bd52c4d11f7fa8f5b573",
+              "repo_id": "974827014",
+              "kind": "purpose",
+              "claim": "LocalLLMClient 是用于在 iOS、macOS 和 Linux 上运行本地 LLM 的 Swift 包。",
+              "citation": {
+                "document_id": "974827014:description",
+                "url": "https://github.com/tattn/LocalLLMClient",
+                "excerpt": "Swift package to run local LLMs on iOS, macOS, Linux",
+                "kind": "description",
+                "start_line": 1,
+                "end_line": 1,
+                "snapshot_hash": "d2a8a596f2c0a41447d37772843fb3bf6c1789abaee525090ae25d0af570a49f"
+              }
+            },
+            {
+              "id": "fact:fce32587c9c67ab10c69",
+              "repo_id": "974827014",
+              "kind": "mechanism",
+              "claim": "LocalLLMClient 使用 llama.cpp、Apple MLX 和 Foundation Models framework 进行模型推理。",
+              "citation": {
+                "document_id": "974827014:readme:0",
+                "url": "https://github.com/tattn/LocalLLMClient/blob/b68f71244baf308469a190cce4f54edf2fde4887/README.md#L503-L503",
+                "excerpt": "This package uses [llama.cpp](https://github.com/ggml-org/llama.cpp), [Apple's MLX](https://opensource.apple.com/projects/mlx/) and [Foundation Models framework](https://developer.apple.com/documentation/foundationmodels) for model inference.",
+                "kind": "readme",
+                "start_line": 503,
+                "end_line": 503,
+                "snapshot_hash": "d2a8a596f2c0a41447d37772843fb3bf6c1789abaee525090ae25d0af570a49f"
+              }
+            },
+            {
+              "id": "fact:1e411658895a357a475b",
+              "repo_id": "974827014",
+              "kind": "interface",
+              "claim": "LLMSession 提供 respond 异步响应接口和 streamResponse 流式响应接口。",
+              "citation": {
+                "document_id": "974827014:readme:0",
+                "url": "https://github.com/tattn/LocalLLMClient/blob/b68f71244baf308469a190cce4f54edf2fde4887/README.md#L70-L74",
+                "excerpt": "print(try await session.respond(to: \"Tell me a joke.\"))\n\nfor try await text in session.streamResponse(to: \"Write a story about cats.\") {\n    print(text, terminator: \"\")\n}",
+                "kind": "readme",
+                "start_line": 70,
+                "end_line": 74,
+                "snapshot_hash": "d2a8a596f2c0a41447d37772843fb3bf6c1789abaee525090ae25d0af570a49f"
+              }
+            },
+            {
+              "id": "fact:af89ea66098287c72ae5",
+              "repo_id": "974827014",
+              "kind": "boundary",
+              "claim": "项目仍处于实验阶段，API 可能变化。",
+              "citation": {
+                "document_id": "974827014:readme:0",
+                "url": "https://github.com/tattn/LocalLLMClient/blob/b68f71244baf308469a190cce4f54edf2fde4887/README.md#L32-L32",
+                "excerpt": "This project is still experimental. The API is subject to change.",
+                "kind": "readme",
+                "start_line": 32,
+                "end_line": 32,
+                "snapshot_hash": "d2a8a596f2c0a41447d37772843fb3bf6c1789abaee525090ae25d0af570a49f"
+              }
+            },
+            {
+              "id": "fact:fe0a5bd031366ff60cc4",
+              "repo_id": "974827014",
+              "kind": "boundary",
+              "claim": "FoundationModels 后端要求 iOS 26.0+ 或 macOS 26.0+，并依赖 Apple Intelligence。",
+              "citation": {
+                "document_id": "974827014:readme:0",
+                "url": "https://github.com/tattn/LocalLLMClient/blob/b68f71244baf308469a190cce4f54edf2fde4887/README.md#L160-L160",
+                "excerpt": "// Available on iOS 26.0+ / macOS 26.0+ and requires Apple Intelligence",
+                "kind": "readme",
+                "start_line": 160,
+                "end_line": 160,
+                "snapshot_hash": "d2a8a596f2c0a41447d37772843fb3bf6c1789abaee525090ae25d0af570a49f"
+              }
+            },
+            {
+              "id": "fact:5324a16b9b661d7312f2",
+              "repo_id": "974827014",
+              "kind": "boundary",
+              "claim": "工具调用仅适用于支持该功能的模型，且模型兼容性因后端而异。",
+              "citation": {
+                "document_id": "974827014:readme:0",
+                "url": "https://github.com/tattn/LocalLLMClient/blob/b68f71244baf308469a190cce4f54edf2fde4887/README.md#L181-L181",
+                "excerpt": "Tool calling is only available with models that support this feature. Each backend has different model compatibility.",
+                "kind": "readme",
+                "start_line": 181,
+                "end_line": 181,
+                "snapshot_hash": "d2a8a596f2c0a41447d37772843fb3bf6c1789abaee525090ae25d0af570a49f"
+              }
+            }
+          ],
+          "unknowns": [
+            "Linux 的 Swift 版本、系统依赖及各后端可用范围是什么？",
+            "各后端的多模态与工具调用兼容模型清单及验证范围是什么？"
+          ],
+          "snapshot_hash": "d2a8a596f2c0a41447d37772843fb3bf6c1789abaee525090ae25d0af570a49f",
+          "fetched_at": "2026-11-06T15:29:46.905656+00:00"
+        },
+        {
+          "repo_id": "995323854",
+          "name": "rafska/awesome-local-llm",
+          "role": "resource",
+          "facts": [
+            {
+              "id": "fact:192c0b6bb83cba96445f",
+              "repo_id": "995323854",
+              "kind": "purpose",
+              "claim": "awesome-local-llm 是用于发现本地 LLM 平台、工具、实践与资料的精选清单。",
+              "citation": {
+                "document_id": "995323854:description",
+                "url": "https://github.com/rafska/awesome-local-llm",
+                "excerpt": "A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally",
+                "kind": "description",
+                "start_line": 1,
+                "end_line": 1,
+                "snapshot_hash": "de5e85883957630523a1acc3867e631b162674e82d558d26baed72fa19101fb3"
+              }
+            },
+            {
+              "id": "fact:c4e690a20ea64910b722",
+              "repo_id": "995323854",
+              "kind": "boundary",
+              "claim": "清单将推理平台、推理引擎和用户界面分为独立类别。",
+              "citation": {
+                "document_id": "995323854:readme:0",
+                "url": "https://github.com/rafska/awesome-local-llm/blob/2ecc71ea7c2b30bbac7cae5462556d8631210ce5/README.md#L6-L8",
+                "excerpt": "- [Inference platforms](#inference-platforms)\n- [Inference engines](#inference-engines)\n- [User Interfaces](#user-interfaces)",
+                "kind": "readme",
+                "start_line": 6,
+                "end_line": 8,
+                "snapshot_hash": "de5e85883957630523a1acc3867e631b162674e82d558d26baed72fa19101fb3"
+              }
+            },
+            {
+              "id": "fact:c72627ea13f372548f3e",
+              "repo_id": "995323854",
+              "kind": "interface",
+              "claim": "清单收录 LocalAI 的 GitHub 项目链接，供读者查阅该推理平台。",
+              "citation": {
+                "document_id": "995323854:readme:0",
+                "url": "https://github.com/rafska/awesome-local-llm/blob/2ecc71ea7c2b30bbac7cae5462556d8631210ce5/README.md#L50-L50",
+                "excerpt": "[LocalAI](https://github.com/mudler/LocalAI) -  the free, open-source alternative to OpenAI, Claude and others",
+                "kind": "readme",
+                "start_line": 50,
+                "end_line": 50,
+                "snapshot_hash": "de5e85883957630523a1acc3867e631b162674e82d558d26baed72fa19101fb3"
+              }
+            },
+            {
+              "id": "fact:dd43004239d50d457c24",
+              "repo_id": "995323854",
+              "kind": "interface",
+              "claim": "清单链接到 vLLM Production Stack，作为 K8S 集群部署参考资料。",
+              "citation": {
+                "document_id": "995323854:readme:1",
+                "url": "https://github.com/rafska/awesome-local-llm/blob/2ecc71ea7c2b30bbac7cae5462556d8631210ce5/README.md#L513-L513",
+                "excerpt": "[vLLM Production Stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization",
+                "kind": "readme",
+                "start_line": 513,
+                "end_line": 513,
+                "snapshot_hash": "de5e85883957630523a1acc3867e631b162674e82d558d26baed72fa19101fb3"
+              }
+            },
+            {
+              "id": "fact:eddb7026d21857e97ac3",
+              "repo_id": "995323854",
+              "kind": "interface",
+              "claim": "清单收录 LangChain RAG Cookbook，作为模块化 RAG 技术的外部实现参考。",
+              "citation": {
+                "document_id": "995323854:readme:1",
+                "url": "https://github.com/rafska/awesome-local-llm/blob/2ecc71ea7c2b30bbac7cae5462556d8631210ce5/README.md#L538-L538",
+                "excerpt": "[LangChain RAG Cookbook](https://github.com/lokeswaran-aj/langchain-rag-cookbook) - a collection of modular RAG techniques, implemented in LangChain + Python",
+                "kind": "readme",
+                "start_line": 538,
+                "end_line": 538,
+                "snapshot_hash": "de5e85883957630523a1acc3867e631b162674e82d558d26baed72fa19101fb3"
+              }
+            },
+            {
+              "id": "fact:8b6511f9c805985ba600",
+              "repo_id": "995323854",
+              "kind": "interface",
+              "claim": "文档链接到 jamesob/local-llm。",
+              "citation": {
+                "document_id": "995323854:readme:1",
+                "url": "https://github.com/rafska/awesome-local-llm/blob/2ecc71ea7c2b30bbac7cae5462556d8631210ce5/README.md#L544-L545",
+                "excerpt": "g.shields.io/github/stars/jamesob/local-llm?style=social\" height=\"17\" align=\"texttop\"/> [local-llm](https://github.com/jamesob/local-llm) - everything jamesob knows about running LLMs locally\n- [Self-hosted AI coding that just works](ht",
+                "kind": "readme",
+                "start_line": 544,
+                "end_line": 545,
+                "snapshot_hash": "de5e85883957630523a1acc3867e631b162674e82d558d26baed72fa19101fb3"
+              },
+              "origin": "document_link"
+            }
+          ],
+          "unknowns": [
+            "项目收录、更新和移除的具体标准是什么？",
+            "条目描述及硬件适配信息是否经过维护者实际验证？"
+          ],
+          "snapshot_hash": "de5e85883957630523a1acc3867e631b162674e82d558d26baed72fa19101fb3",
+          "fetched_at": "2026-11-06T15:29:26.773016+00:00"
+        }
+      ],
+      "relations": [
+        {
+          "id": "relation:b826df78f277c967aaf4",
+          "source": "995323854",
+          "target": "615869301",
+          "kind": "references",
+          "claim": "rafska/awesome-local-llm 的文档链接到 mudler/LocalAI。",
+          "distinction": "只确认文档提及，尚不能证明实际集成或兼容。",
+          "basis": "documented",
+          "fact_ids": [
+            "fact:c72627ea13f372548f3e",
+            "fact:2d08c7c605b719e74ebe"
+          ],
+          "review": {
+            "method": "document_link",
+            "reason": "原文明确链接到目标项目；未据此断言集成。"
+          }
+        },
+        {
+          "id": "relation:22640b8c6c87b6d56d65",
+          "source": "1118133888",
+          "target": "995323854",
+          "kind": "same_problem",
+          "claim": "LLMs-local 与 rafska/awesome-local-llm 都帮助读者发现本地 LLM 工具和资源。",
+          "distinction": "前者明确收录云端 RAG 模板，后者展示平台、引擎和界面分类；这些记录不足以确立双方独有内容或完整覆盖差异。",
+          "basis": "inference",
+          "fact_ids": [
+            "fact:a12adf6fa362215ea7cb",
+            "fact:fa5497799b9f4c0d6d41",
+            "fact:192c0b6bb83cba96445f",
+            "fact:c4e690a20ea64910b722"
+          ],
+          "pending_checks": [
+            "比较同一时间的完整条目及收录规则，确认实际覆盖差异。"
+          ],
+          "review": {
+            "method": "model",
+            "reason": "双方均直接承担发现本地 LLM 工具和资源的任务，比较限于资源清单。",
+            "integration_evidence": null
+          }
+        },
+        {
+          "id": "relation:46650eebbbe91b3c5a45",
+          "source": "764998085",
+          "target": "995323854",
+          "kind": "same_problem",
+          "claim": "vince-lam/awesome-local-llms 与 rafska/awesome-local-llm 均支持发现 LLM 工具资源。",
+          "distinction": "前者定位全栈目录并记录每日仓库指标，提供搜索筛选；后者定位本地运行资源清单。不能据此认定后者缺少所有类似机制。",
+          "basis": "inference",
+          "fact_ids": [
+            "fact:3a6de6977cbbd3614767",
+            "fact:855f0555ed174dbfc988",
+            "fact:ba1f47deec6b20339562",
+            "fact:192c0b6bb83cba96445f"
+          ],
+          "pending_checks": [
+            "核对两者本地运行工具子集的覆盖范围及分类准确性。"
+          ],
+          "review": {
+            "method": "model",
+            "reason": "双方都提供查找 LLM 开源工具的入口，重叠任务是资源发现，而非执行推理。",
+            "integration_evidence": null
+          }
+        },
+        {
+          "id": "relation:3ad4b61c8459480f24d8",
+          "source": "1203574922",
+          "target": "649170660",
+          "kind": "same_problem",
+          "claim": "obsidian-llm-wiki-local 与 AnythingLLM 都支持查询用户文档中的知识。",
+          "distinction": "前者先将 Markdown 转为概念文章，默认索引查询，embeddings RAG 另有端点要求；后者导入文档对话，并由 server 管理向量数据库和 LLM 交互。",
+          "basis": "inference",
+          "fact_ids": [
+            "fact:2f7729c2eee46dc59c34",
+            "fact:460a882365c56436d3a2",
+            "fact:54795a338de5e79e3531",
+            "fact:6021ebe9ed1dec45c128"
+          ],
+          "pending_checks": [
+            "在相同文档和问题上核对回答依据、检索行为及更新传播。"
+          ],
+          "review": {
+            "method": "model",
+            "reason": "wiki 工具的查询说明与 AnythingLLM 的文档对话说明支持围绕用户文档获取回答这一具体重叠任务。",
+            "integration_evidence": null
+          }
+        },
+        {
+          "id": "relation:26ccba023fd2fa2c1584",
+          "source": "1203574922",
+          "target": "615869301",
+          "kind": "complements",
+          "claim": "LocalAI 可作为 obsidian-llm-wiki-local 的候选模型服务层，依据是双方文档中的 OpenAI API 兼容接口。",
+          "distinction": "wiki 工具承担笔记处理与查询，LocalAI 承担模型服务；兼容声明不能保证具体请求、参数与后端均可用。",
+          "basis": "inference",
+          "fact_ids": [
+            "fact:8b2bb9665dc9cbd1bb16",
+            "fact:460a882365c56436d3a2",
+            "fact:995e1d5f284f1136a8c3"
+          ],
+          "pending_checks": [
+            "验证实际使用的生成请求及响应格式是否兼容。",
+            "启用 embeddings RAG 前验证所选 LocalAI 后端的 /v1/embeddings 及模型配置。"
+          ],
+          "review": {
+            "method": "model",
+            "reason": "一方接受 OpenAI-compatible endpoint，另一方声明提供 OpenAI API 兼容服务，形成具体协议交接依据，但尚未验证互操作。",
+            "integration_evidence": null
+          }
+        },
+        {
+          "id": "relation:6d5cbfc46a12bb16b7b3",
+          "source": "619959033",
+          "target": "974827014",
+          "kind": "same_problem",
+          "claim": "GPT4All 的 Python 客户端与 LocalLLMClient 的 Swift 包都支持在程序中调用本地 LLM。",
+          "distinction": "GPT4All 所述客户端封装 llama.cpp；LocalLLMClient 文档列出 llama.cpp、MLX 和 Foundation Models 后端，且 API 尚属实验阶段。不能据此穷尽 GPT4All 的后端范围。",
+          "basis": "inference",
+          "fact_ids": [
+            "fact:76d496677f7153967b42",
+            "fact:bd52c4d11f7fa8f5b573",
+            "fact:fce32587c9c67ab10c69",
+            "fact:af89ea66098287c72ae5"
+          ],
+          "pending_checks": [
+            "核对目标平台、模型和后端组合的实际支持范围。"
+          ],
+          "review": {
+            "method": "model",
+            "reason": "双方均提供供程序调用本地 LLM 的客户端接口；比较应限定在库接口层面。",
+            "integration_evidence": null
+          }
+        },
+        {
+          "id": "relation:87e9379f493b7a89e6eb",
+          "source": "1118133888",
+          "target": "615869301",
+          "kind": "references",
+          "claim": "0xSojalSec/LLMs-local 的文档链接到 mudler/LocalAI。",
+          "distinction": "只确认文档提及，尚不能证明实际集成或兼容。",
+          "basis": "documented",
+          "fact_ids": [
+            "fact:3a725b67937ce6ba8af7",
+            "fact:2d08c7c605b719e74ebe"
+          ],
+          "review": {
+            "method": "document_link",
+            "reason": "原文明确链接到目标项目；未据此断言集成。"
+          }
+        },
+        {
+          "id": "relation:2d43c29e297a8038cb9b",
+          "source": "995323854",
+          "target": "1288292418",
+          "kind": "references",
+          "claim": "rafska/awesome-local-llm 的文档链接到 jamesob/local-llm。",
+          "distinction": "只确认文档提及，尚不能证明实际集成或兼容。",
+          "basis": "documented",
+          "fact_ids": [
+            "fact:8b6511f9c805985ba600",
+            "fact:378cc027cbe775a78c60"
+          ],
+          "review": {
+            "method": "document_link",
+            "reason": "原文明确链接到目标项目；未据此断言集成。"
+          }
+        }
+      ],
+      "curation_status": "complete",
+      "relation_decisions": [
+        {
+          "relation_id": "relation:22640b8c6c87b6d56d65",
+          "source": "1118133888",
+          "target": "995323854",
+          "kind": "same_problem",
+          "verdict": "retain",
+          "reason": "双方均直接承担发现本地 LLM 工具和资源的任务，比较限于资源清单。",
+          "fact_ids": [
+            "fact:a12adf6fa362215ea7cb",
+            "fact:fa5497799b9f4c0d6d41",
+            "fact:192c0b6bb83cba96445f",
+            "fact:c4e690a20ea64910b722"
+          ],
+          "endpoint_scope": "repositories",
+          "pair_basis": "specific"
+        },
+        {
+          "relation_id": "relation:46650eebbbe91b3c5a45",
+          "source": "764998085",
+          "target": "995323854",
+          "kind": "same_problem",
+          "verdict": "retain",
+          "reason": "双方都提供查找 LLM 开源工具的入口，重叠任务是资源发现，而非执行推理。",
+          "fact_ids": [
+            "fact:3a6de6977cbbd3614767",
+            "fact:855f0555ed174dbfc988",
+            "fact:ba1f47deec6b20339562",
+            "fact:192c0b6bb83cba96445f"
+          ],
+          "endpoint_scope": "repositories",
+          "pair_basis": "specific"
+        },
+        {
+          "relation_id": "relation:534f11a44136a37abe88",
+          "source": "637313883",
+          "target": "1288292418",
+          "kind": "complements",
+          "verdict": "omit",
+          "reason": "先 Colab 试用再参考 Docker 部署只是通用流程；证据未建立双方具体模型、产物格式或接口交接。",
+          "fact_ids": [
+            "fact:080763874dedfa40802c",
+            "fact:378cc027cbe775a78c60",
+            "fact:afeae3877b897f904c8f"
+          ],
+          "endpoint_scope": "repositories",
+          "pair_basis": "generic"
+        },
+        {
+          "relation_id": "relation:3ad4b61c8459480f24d8",
+          "source": "1203574922",
+          "target": "649170660",
+          "kind": "same_problem",
+          "verdict": "retain",
+          "reason": "wiki 工具的查询说明与 AnythingLLM 的文档对话说明支持围绕用户文档获取回答这一具体重叠任务。",
+          "fact_ids": [
+            "fact:2f7729c2eee46dc59c34",
+            "fact:460a882365c56436d3a2",
+            "fact:54795a338de5e79e3531",
+            "fact:6021ebe9ed1dec45c128"
+          ],
+          "endpoint_scope": "repositories",
+          "pair_basis": "specific"
+        },
+        {
+          "relation_id": "relation:26ccba023fd2fa2c1584",
+          "source": "1203574922",
+          "target": "615869301",
+          "kind": "complements",
+          "verdict": "retain",
+          "reason": "一方接受 OpenAI-compatible endpoint，另一方声明提供 OpenAI API 兼容服务，形成具体协议交接依据，但尚未验证互操作。",
+          "fact_ids": [
+            "fact:8b2bb9665dc9cbd1bb16",
+            "fact:460a882365c56436d3a2",
+            "fact:995e1d5f284f1136a8c3"
+          ],
+          "endpoint_scope": "repositories",
+          "pair_basis": "specific"
+        },
+        {
+          "relation_id": "relation:6d5cbfc46a12bb16b7b3",
+          "source": "619959033",
+          "target": "974827014",
+          "kind": "same_problem",
+          "verdict": "retain",
+          "reason": "双方均提供供程序调用本地 LLM 的客户端接口；比较应限定在库接口层面。",
+          "fact_ids": [
+            "fact:76d496677f7153967b42",
+            "fact:bd52c4d11f7fa8f5b573",
+            "fact:fce32587c9c67ab10c69",
+            "fact:af89ea66098287c72ae5"
+          ],
+          "endpoint_scope": "repositories",
+          "pair_basis": "specific"
+        },
+        {
+          "relation_id": "relation:3658059553df70809e25",
+          "source": "776632801",
+          "target": "615869301",
+          "kind": "same_problem",
+          "verdict": "omit",
+          "reason": "LocalAI 引文指向独立语音助手 demo，不能把该外部示例的任务归为 LocalAI 仓库本身的同任务实现。",
+          "fact_ids": [
+            "fact:f841f6d60e519e0698f7",
+            "fact:9a627b6dcccdfdf2ce00",
+            "fact:3055f37f998ed6c75013"
+          ],
+          "endpoint_scope": "external_example",
+          "pair_basis": "unclear"
+        }
+      ],
+      "landscape": {
+        "summary": "本组涵盖资源发现、模型试用与部署资料、本地推理接口，以及文档查询、交易分类和语音对话应用。清单与教程不能视为应用替代品；Colab 试用不等于本地部署，支持云端提供方也不等于完全离线。以下判断仅依据所给仓库文档，API 兼容声明与运行效果均未经独立验证。",
+        "routes": [
+          {
+            "id": "route:42dc7099b7f45754",
+            "title": "发现与筛选 LLM 工具资源",
+            "description": "通过分类清单或仓库指标寻找工具，不直接承担推理任务。目录范围可能包含云端资源；增长排序不能证明质量。",
+            "members": [
+              {
+                "repo_id": "1118133888",
+                "reason": "收集本地 LLM 平台和工具，也收录云端 RAG 模板。",
+                "fact_ids": [
+                  "fact:a12adf6fa362215ea7cb",
+                  "fact:fa5497799b9f4c0d6d41"
+                ]
+              },
+              {
+                "repo_id": "995323854",
+                "reason": "按推理平台、引擎和界面等类别组织本地运行资源。",
+                "fact_ids": [
+                  "fact:192c0b6bb83cba96445f",
+                  "fact:c4e690a20ea64910b722"
+                ]
+              },
+              {
+                "repo_id": "764998085",
+                "reason": "提供全栈项目目录、搜索筛选与增长排序；README 排名设有活跃度和 stars 门槛。",
+                "fact_ids": [
+                  "fact:3a6de6977cbbd3614767",
+                  "fact:ba1f47deec6b20339562",
+                  "fact:2f4477f1a0e81435d583"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "route:84a2627095103a46",
+            "title": "模型试用与本地部署参考资料",
+            "description": "提供 Colab 试用入口或个人硬件与 Docker 配置经验。两种资料用途不同，文档未建立从试用模型到部署配置的对应关系。",
+            "members": [
+              {
+                "repo_id": "637313883",
+                "reason": "汇集比较资料与 Colab WebUI；作者认为旧评估流程可能不足，新模型仅提供试用链接。",
+                "fact_ids": [
+                  "fact:ec157eadd1cc7a2df9dd",
+                  "fact:080763874dedfa40802c"
+                ]
+              },
+              {
+                "repo_id": "1288292418",
+                "reason": "提供个人部署指南和按模型隔离的 Docker 配置；约 11GB Nvidia 显存要求仅针对所述 STT 配置。",
+                "fact_ids": [
+                  "fact:378cc027cbe775a78c60",
+                  "fact:afeae3877b897f904c8f",
+                  "fact:dea8ba1f3e8c4aa3d49c"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "route:cad4cc7b0b1c8996",
+            "title": "通过服务 API 或语言客户端调用本地模型",
+            "description": "分别以统一模型服务、Python 客户端和 Swift 包暴露推理能力。GPT4All 还提供桌面应用；桌面构建限制与特定后端要求不能扩展到整个 SDK。",
+            "members": [
+              {
+                "repo_id": "615869301",
+                "reason": "以统一 API 提供多模态能力，按模型需要拉取独立后端镜像，并声明兼容多种服务 API。",
+                "fact_ids": [
+                  "fact:2d08c7c605b719e74ebe",
+                  "fact:86b1aacc2a6b58e4b162",
+                  "fact:995e1d5f284f1136a8c3"
+                ]
+              },
+              {
+                "repo_id": "619959033",
+                "reason": "提供本地桌面应用及封装 llama.cpp 的 Python 客户端；所述 Linux 构建仅支持 x86-64。",
+                "fact_ids": [
+                  "fact:709a75c05666102f4489",
+                  "fact:76d496677f7153967b42",
+                  "fact:4d32a89a09d76bfa8e3d"
+                ]
+              },
+              {
+                "repo_id": "974827014",
+                "reason": "以 Swift 包接入多种推理后端；API 尚属实验阶段，FoundationModels 后端另有系统和 Apple Intelligence 要求。",
+                "fact_ids": [
+                  "fact:bd52c4d11f7fa8f5b573",
+                  "fact:fce32587c9c67ab10c69",
+                  "fact:af89ea66098287c72ae5",
+                  "fact:fe0a5bd031366ff60cc4"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "route:fdffd0f16ed99a1e",
+            "title": "整理文档知识并进行查询或对话",
+            "description": "一条路径将 Markdown 编译为概念文章并查询，另一条导入文档进行对话。提供方选择影响本地运行边界；维护状态与部署版本限制需分别考虑。",
+            "members": [
+              {
+                "repo_id": "1203574922",
+                "reason": "生成或更新 wiki 文章，支持索引查询和有条件的 embeddings RAG；项目已进入维护模式。",
+                "fact_ids": [
+                  "fact:2f7729c2eee46dc59c34",
+                  "fact:460a882365c56436d3a2",
+                  "fact:42a05367f55c4e00ee9c"
+                ]
+              },
+              {
+                "repo_id": "649170660",
+                "reason": "导入文档并连接本地或云端 LLM 对话；多用户权限限 Docker 版，外部提供方仍产生出站连接。",
+                "fact_ids": [
+                  "fact:54795a338de5e79e3531",
+                  "fact:6021ebe9ed1dec45c128",
+                  "fact:56ace7321cf470c80e26",
+                  "fact:659441eb6a02b8151def"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "route:966417b031d5a946",
+            "title": "用 Llama2 分类银行交易的示例",
+            "description": "探索个人交易自动分类以支持分析；仓库数据为虚构演示数据，不能据此推定真实交易分类准确性。",
+            "members": [
+              {
+                "repo_id": "751783691",
+                "reason": "以 Llama2 分类银行交易，示例数据仅供演示。",
+                "fact_ids": [
+                  "fact:505cd0f41a069eb8756f",
+                  "fact:8e4945589ac32e3a0248"
+                ]
+              }
+            ]
+          },
+          {
+            "id": "route:dcbea03d53229902",
+            "title": "串联语音识别、LLM 与语音合成",
+            "description": "将语音输入转写后交给 LLM，再合成语音回复。local-talking-llm 提供离线路径，但选择 MiniMax 时 LLM 在云端运行。",
+            "members": [
+              {
+                "repo_id": "776632801",
+                "reason": "串联 Whisper、Langchain 与 Chatterbox TTS；MiniMax 配置仅保持 STT 和 TTS 在本地。",
+                "fact_ids": [
+                  "fact:f841f6d60e519e0698f7",
+                  "fact:9a627b6dcccdfdf2ce00",
+                  "fact:98afe95f207bebb4dda9"
+                ]
+              }
+            ]
+          }
+        ],
+        "unassigned_repo_ids": [],
+        "scope_note": "仅组织本批已读项目，不代表完整领域；路线归属不表示依赖或兼容。"
+      },
+      "warnings": [
+        "mudler/LocalAI: README 超出阅读预算，仅保留开头与结尾；未读取部分不能用于判断。",
+        "Mintplex-Labs/anything-llm: README 超出阅读预算，仅保留开头与结尾；未读取部分不能用于判断。",
+        "rafska/awesome-local-llm: README 超出阅读预算，仅保留开头与结尾；未读取部分不能用于判断。",
+        "0xSojalSec/LLMs-local: README 超出阅读预算，仅保留开头与结尾；未读取部分不能用于判断。",
+        "Troyanovsky/Local-LLM-Comparison-Colab-UI: README 超出阅读预算，仅保留开头与结尾；未读取部分不能用于判断。",
+        "kytmanov/obsidian-llm-wiki-local: README 超出阅读预算，仅保留开头与结尾；未读取部分不能用于判断。",
+        "vince-lam/awesome-local-llms: README 超出阅读预算，仅保留开头与结尾；未读取部分不能用于判断。"
+      ],
+      "metrics": {
+        "repositories": 12,
+        "facts": 61,
+        "relations": 8,
+        "model_calls": 0,
+        "cached_repositories": 12,
+        "map_cache_hit": true,
+        "elapsed_seconds": 0
+      }
+    }
+  }
+}

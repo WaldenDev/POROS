@@ -1,0 +1,9 @@
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Generated release-manifest SHA-256 values, verified against source files"
+condition = "AND"
+paths = ['''(^|/)release-manifest\.json$''']
+regexTarget = "secret"
+regexes = ['''^[a-f0-9]{64}$''']

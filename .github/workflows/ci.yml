@@ -1,0 +1,35 @@
+name: Explorer checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  source-checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '22'
+      - uses: astral-sh/setup-uv@d0d8abe699bfb85fec6de9f7adb5ae17292296ff # v6
+        with:
+          python-version: '3.12'
+      - run: npm install --global pnpm@11.9.0
+      - run: uv sync --frozen
+        working-directory: apps/api
+      - run: uv run python -m unittest test_release_setup
+        working-directory: apps/api
+      - run: pnpm install --frozen-lockfile
+        working-directory: apps/web
+      - run: pnpm exec tsx --test tests/static-preview.test.ts
+        working-directory: apps/web
+      - run: pnpm build:explorer
+        working-directory: apps/web
+      - run: pnpm build:demo
+        working-directory: apps/web

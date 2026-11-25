@@ -1,0 +1,33 @@
+{
+  "name": "poros-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5177",
+    "build": "tsc -b && vite build --config vite.public.config.ts",
+    "build:explorer": "tsc -b && vite build --config vite.public.config.ts",
+    "build:demo": "tsc -b && vite build --config vite.public.config.ts --mode demo --outDir dist-demo",
+    "preview:demo": "vite preview --config vite.public.config.ts --outDir dist-demo --host 127.0.0.1 --port 5178",
+    "preview": "vite preview --host 127.0.0.1 --port 5178"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "d3-force-3d": "3.0.6",
+    "lucide-react": "^1.21.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-force-graph-3d": "^1.29.2",
+    "three": "^0.187.0",
+    "three-spritetext": "^1.10.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.1.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@types/three": "^0.187.0",
+    "tsx": "^4.23.15"
+  }
+}
