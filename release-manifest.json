@@ -1,7 +1,7 @@
 {
   "edition": "explorer-alpha",
   "files": {
-    ".github/workflows/ci.yml": "16c19bb16a19ba6cf5c7b3ed70fa21493bbe6fc8f802063dae02c0e3386a812f",
+    ".github/workflows/ci.yml": "353ba616856eb151166e46ecf0dfc6f7c2983413e72fe4e8fe780e6e72810c47",
     ".gitignore": "3cbc4273d9207a230419417b9caaad7205b6e9ca0fe0e85f7c7f4d90b55608bc",
     ".gitleaks.toml": "1ae6432773066ae8acdf21a80253c59911fcdfad3b45638348a919a77ae19e50",
     "CHANGELOG.md": "da98357d3a2da6f1407d9dc129303bcd94a31115024d264329b4cf130a5bb2a2",
