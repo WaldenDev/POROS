@@ -35,7 +35,7 @@
 下载并启动：
 
 ```bash
-git clone https://github.com/anonymosrReporter/POROS.git
+git clone https://github.com/WaldenDev/POROS.git
 cd POROS/apps/web
 pnpm install --frozen-lockfile
 pnpm dev
@@ -107,4 +107,4 @@ CHANGELOG.md            面向使用者的简短更新记录
 
 后端配置回归：在 `apps/api` 运行 `uv run python -m unittest test_release_setup`。前端数据回归：在 `apps/web` 运行 `pnpm exec tsx --test tests/static-preview.test.ts`。
 
-首发围绕 Explorer 收敛，历史工作台与旧 idea 工作流不作为首版产品。POROS 自有代码采用 [MIT](LICENSE)；依赖、项目名称、头像与引用材料保留各自的许可和权利，见 [第三方内容](THIRD_PARTY.md)。欢迎通过 [Issues](https://github.com/anonymosrReporter/POROS/issues) 反馈体验问题；参与开发见 [贡献说明](CONTRIBUTING.md)。
+首发围绕 Explorer 收敛，历史工作台与旧 idea 工作流不作为首版产品。POROS 自有代码采用 [MIT](LICENSE)；依赖、项目名称、头像与引用材料保留各自的许可和权利，见 [第三方内容](THIRD_PARTY.md)。欢迎通过 [Issues](https://github.com/WaldenDev/POROS/issues) 反馈体验问题；参与开发见 [贡献说明](CONTRIBUTING.md)。
