@@ -1,7 +1,4 @@
-// Demo distributions stay offline; ordinary production builds retain the live entry.
-export const STATIC_PREVIEW_ENABLED = true;
-
+// Normal startup is live. Recorded data requires an explicit development opt-in.
 export function isStaticPreview(development: boolean, search: string, demo = false) {
-  return demo || (development && STATIC_PREVIEW_ENABLED &&
-    new URLSearchParams(search).get("mode") !== "live");
+  return demo || (development && new URLSearchParams(search).get("mode") === "static");
 }

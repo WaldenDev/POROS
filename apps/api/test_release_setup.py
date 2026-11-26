@@ -95,6 +95,21 @@ class ReleaseSetupTests(unittest.TestCase):
             with patch.dict(os.environ, {"POROS_OPENAI_API_KEY": ""}):
                 self.assertFalse(setup.check())
 
+    def test_setup_checks_configuration_in_the_same_command(self):
+        for ready in (True, False):
+            with self.subTest(ready=ready), patch("sys.argv", ["setup"]), \
+                    patch.object(setup, "configure") as configure, \
+                    patch.object(setup, "check", return_value=ready) as check, \
+                    patch("sys.stdout", new_callable=io.StringIO):
+                if ready:
+                    setup.main()
+                else:
+                    with self.assertRaises(SystemExit) as error:
+                        setup.main()
+                    self.assertEqual(error.exception.code, 1)
+                configure.assert_called_once_with()
+                check.assert_called_once_with()
+
     def test_public_routes_do_not_include_legacy_workbench(self):
         with TestClient(app) as client:
             self.assertEqual(client.get("/api/health").json(), {

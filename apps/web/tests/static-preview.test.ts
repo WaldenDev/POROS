@@ -3,9 +3,11 @@ import assert from "node:assert/strict";
 import recording from "../src/explorer/debug/local-llm.json";
 import { isStaticPreview } from "../src/explorer/debug/mode";
 
-test("static preview is development-only and has an explicit live override", () => {
-  assert.equal(isStaticPreview(true, ""), true);
+test("normal startup is live and recorded data requires explicit development opt-in", () => {
+  assert.equal(isStaticPreview(true, ""), false);
   assert.equal(isStaticPreview(true, "?mode=live"), false);
+  assert.equal(isStaticPreview(true, "?mode=static"), true);
+  assert.equal(isStaticPreview(true, "?mode=unknown"), false);
   assert.equal(isStaticPreview(false, ""), false);
   assert.equal(isStaticPreview(false, "?mode=static"), false);
 });

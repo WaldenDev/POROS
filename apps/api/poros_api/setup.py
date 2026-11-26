@@ -24,7 +24,7 @@ def write_configuration(path: Path, values: dict[str, str]) -> None:
 
 def configure(path: Path = ENV_PATH) -> None:
     if path.exists():
-        print(f"已存在 {path}，未修改。请编辑该文件后运行 --check。")
+        print(f"使用已有配置 {path}，未修改。")
         return
     provider = input("模型接口 [1 Gemini / 2 OpenAI-compatible]，默认 1: ").strip() or "1"
     if provider not in {"1", "2"}:
@@ -39,7 +39,7 @@ def configure(path: Path = ENV_PATH) -> None:
                       POROS_OPENAI_MODEL=input("模型 ID（以供应商控制台为准）: ").strip(),
                       POROS_OPENAI_API_KEY=getpass("API key: ").strip())
     write_configuration(path, values)
-    print(f"已写入 {path}（仅当前用户可读写）。运行 --check 检查配置；启动后修改需重启 API。")
+    print(f"已写入 {path}（仅当前用户可读写）。启动后修改需重启 API。")
 
 
 def check() -> bool:
@@ -66,6 +66,9 @@ def main() -> None:
         if args.check:
             raise SystemExit(0 if check() else 1)
         configure()
+        if not check():
+            print(f"请补全 {ENV_PATH} 中所选接口的配置后重新运行。")
+            raise SystemExit(1)
     except (ValueError, FileExistsError, KeyboardInterrupt, EOFError) as exc:
         print(f"配置未完成: {exc}")
         raise SystemExit(1) from None

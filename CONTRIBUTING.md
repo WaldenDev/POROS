@@ -4,6 +4,8 @@
 
 ## 本地检查
 
+正常使用按 README 的本地运行步骤操作。开发时如需历史数据，在开发服务打开 `/?mode=static`，不会发起业务 API 请求。独立演示构建使用 `pnpm build:demo`、`pnpm preview:demo`，这是开发预览用途，不是正常部署入口。普通构建使用 `pnpm build:explorer`，仍需运行后端。
+
 后端：在 `apps/api` 运行 `uv sync --frozen`，然后 `uv run python -m unittest test_release_setup`。
 
 前端：在 `apps/web` 运行 `pnpm install --frozen-lockfile`、`pnpm exec tsx --test tests/static-preview.test.ts`、`pnpm build:explorer` 和 `pnpm build:demo`。
