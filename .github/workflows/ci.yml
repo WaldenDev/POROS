@@ -25,7 +25,14 @@ jobs:
         working-directory: apps/api
       - run: uv run python -m unittest test_release_setup
         working-directory: apps/api
+      - name: Audit locked Python dependencies
+        working-directory: apps/api
+        run: |
+          uv export --frozen --no-hashes --output-file "$RUNNER_TEMP/poros-requirements.txt"
+          uvx pip-audit==2.10.1 --no-deps --disable-pip -r "$RUNNER_TEMP/poros-requirements.txt"
       - run: pnpm install --frozen-lockfile
+        working-directory: apps/web
+      - run: pnpm audit --audit-level=low
         working-directory: apps/web
       - run: pnpm exec tsx --test tests/static-preview.test.ts
         working-directory: apps/web

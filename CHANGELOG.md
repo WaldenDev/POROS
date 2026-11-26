@@ -1,5 +1,11 @@
 # 更新记录
 
+## 依赖安全维护 · 2026-11-26
+
+- 公开版使用独立 Python 依赖清单与锁文件，移除未使用的 LangGraph 依赖树。
+- 升级 AnyIO、HTTPX2/HTTPCore2、Vite、PostCSS、nanoid 和 source-map-js，修复首发依赖告警；私有版单独升级保留的 LangGraph、certifi 和 urllib3。
+- CI 增加 Python / npm 依赖审计，Dependabot 每周检查更新；README 和业务功能未修改。
+
 ## Explorer Alpha · 0.1.0 · 2026-11-25
 
 - 上手：新增配置向导与离线配置检查；保留 Gemini，增加 OpenAI-compatible 模型接口。
