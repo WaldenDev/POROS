@@ -16,16 +16,16 @@ importers:
         version: 3.0.6
       lucide-react:
         specifier: ^1.21.0
-        version: 1.21.0(react@19.2.7)
+        version: 1.21.0(react@19.3.1)
       react:
-        specifier: ^19.2.7
-        version: 19.2.7
+        specifier: ^19.3.1
+        version: 19.3.1
       react-dom:
         specifier: ^19.2.7
-        version: 19.2.7(react@19.2.7)
+        version: 19.2.7(react@19.3.1)
       react-force-graph-3d:
         specifier: ^1.29.2
-        version: 1.29.2(react@19.2.7)
+        version: 1.29.2(react@19.3.1)
       three:
         specifier: ^0.187.0
         version: 0.187.0
@@ -43,11 +43,11 @@ importers:
         specifier: ^1.64.1
         version: 1.64.1
       '@types/react':
-        specifier: ^19.2.7
-        version: 19.2.17
+        specifier: ^19.3.0
+        version: 19.3.0
       '@types/react-dom':
         specifier: ^19.2.3
-        version: 19.2.3(@types/react@19.2.17)
+        version: 19.2.3(@types/react@19.3.0)
       '@types/three':
         specifier: ^0.187.0
         version: 0.187.0
@@ -359,8 +359,8 @@ packages:
     peerDependencies:
       '@types/react': ^19.2.0
 
-  '@types/react@19.2.17':
-    resolution: {integrity: sha512-MXfmqaVPEVgkBT/aY0aGCkRWWtByiYQXo3xdQ8r5RzuFrPiRn8Gar2tQdXSUQ2GKV3bkXckek89V8wQBY2Q/Aw==}
+  '@types/react@19.3.0':
+    resolution: {integrity: sha512-N0rFCuH9YoxG9/m61l9MfpJKfmLOVU0em7ipIz6TRgSSkvReLB9vL85GB+yr8Bs5leqpvg96JSwF4ZS1s4viQg==}
 
   '@types/stats.js@0.17.4':
     resolution: {integrity: sha512-jIBvWWShCvlBqBNIZt0KAshWpvSjhkwkEu4ZUcASoAvhmrgAUI2t1dXrjSL4xXVLB4FznPrIsX3nKXFl/Dt4vA==}
@@ -667,8 +667,8 @@ packages:
     peerDependencies:
       react: '>=16.13.1'
 
-  react@19.2.7:
-    resolution: {integrity: sha512-HNe9WslTbXmFK8o8cmwgAeJFSBvt1bPdHCVKtaaV+WlAN36mpT4hcRpwbf3fY56ar2oIXzsBpOAiIRHAdY0OlQ==}
+  react@19.3.1:
+    resolution: {integrity: sha512-QNhWdt7nrgVWWQG58QuGsAR3jv3Hbe4mb4vz7w2csnHavciZJgda1CPNaldF6eVxv90ud3jUXpKlHL69gO38yw==}
     engines: {node: '>=0.10.0'}
 
   rolldown@1.1.8:
@@ -950,11 +950,11 @@ snapshots:
       tslib: 2.9.1
     optional: true
 
-  '@types/react-dom@19.2.3(@types/react@19.2.17)':
+  '@types/react-dom@19.2.3(@types/react@19.3.0)':
     dependencies:
-      '@types/react': 19.2.17
+      '@types/react': 19.3.0
 
-  '@types/react@19.2.17':
+  '@types/react@19.3.0':
     dependencies:
       csstype: 3.2.3
 
@@ -1151,9 +1151,9 @@ snapshots:
     dependencies:
       js-tokens: 4.0.0
 
-  lucide-react@1.21.0(react@19.2.7):
+  lucide-react@1.21.0(react@19.3.1):
     dependencies:
-      react: 19.2.7
+      react: 19.3.1
 
   meshoptimizer@1.1.1: {}
 
@@ -1205,28 +1205,28 @@ snapshots:
       object-assign: 4.1.1
       react-is: 16.13.1
 
-  react-dom@19.2.7(react@19.2.7):
+  react-dom@19.2.7(react@19.3.1):
     dependencies:
-      react: 19.2.7
+      react: 19.3.1
       scheduler: 0.27.0
 
-  react-force-graph-3d@1.29.2(react@19.2.7):
+  react-force-graph-3d@1.29.2(react@19.3.1):
     dependencies:
       3d-force-graph: 1.80.1
       prop-types: 15.8.1
-      react: 19.2.7
-      react-kapsule: 2.6.0(react@19.2.7)
+      react: 19.3.1
+      react-kapsule: 2.6.0(react@19.3.1)
     transitivePeerDependencies:
       - preact-render-to-string
 
   react-is@16.13.1: {}
 
-  react-kapsule@2.6.0(react@19.2.7):
+  react-kapsule@2.6.0(react@19.3.1):
     dependencies:
       jerrypick: 1.1.2
-      react: 19.2.7
+      react: 19.3.1
 
-  react@19.2.7: {}
+  react@19.3.1: {}
 
   rolldown@1.1.8:
     dependencies:
